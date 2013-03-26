@@ -5,7 +5,7 @@ analytics_token: 'UA-28083204-4'
 
 markdown: rdiscount
 rdiscount:
-  extensions: [smart]
+  extensions: [smart, footnotes]
 
 pygments:    false
 permalink:   /:categories/:title/
