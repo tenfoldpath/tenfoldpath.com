@@ -94,6 +94,7 @@ h2 a:visited {color:#222}
 
 time, header p {color:#888}
 time {display:block; white-space:nowrap;}
+address {display:inline; font-style:normal}
 header p time {display:inline}
 
 section hgroup,
