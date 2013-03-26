@@ -175,6 +175,7 @@ footer section p {margin:0}
 
 .ir {display:block; border:0; text-indent:-999em; overflow:hidden; background-color:transparent; background-repeat:no-repeat; text-align:left; direction:ltr; *line-height:0}
 .ir br {display:none}
+.collapse {display:inline-block;}
 .hidden {display:none !important; visibility:hidden}
 .inline {display:inline}
 .visuallyhidden {border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px}
