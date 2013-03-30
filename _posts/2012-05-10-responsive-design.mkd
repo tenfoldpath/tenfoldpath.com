@@ -1,7 +1,7 @@
 ---
 filename: 2012-05-10-responsive-design.mkd
 revised:  2012-05-24
-layout:   article
+layout:   post
 category: notes
 title:    Responsive Web Design
 ---
@@ -10,9 +10,9 @@ In 2010 [Ethan Marcotte][1] coined the term _[responseive web design][2]_ to
 describe a process for creating flexible, versatile websites. By using [media
 queries][3] in conjunction with a fluid grid a designer can alter the flow of
 content within a website to provide a good viewing experience on [a phone-sized
-screen as well as a 70&#8221; display][4]. Philosophically it embraces the idea
-that when designing for the web [we should &#8220;accept the ebb and flow of
-things&#8221;][5].
+screen as well as a 70" display][4]. Philosophically it embraces the idea
+that when designing for the web [we should "accept the ebb and flow of
+things"][5].
 
 ## Getting Started
 
@@ -30,13 +30,13 @@ I have read several of their books. They are all good.
    websites should be designed with the mobile viewport in mind. Only when there
    is more screen real estate available should they be enhanced.
 
-## Follow What&#8217;s Going On
+## Follow What's Going On
 
  - [mediaqueri.es][14] is a gallery of responsive sites that illustrate how
    different approaches to presenting content at varying screen widths.
  - [@RWD][15] has frequent updates to all things related to responsive web
    design.
- - [Luke Wroblewski&#8217;s blog][16] is constant source of high-quality information.
+ - [Luke Wroblewski's blog][16] is constant source of high-quality information.
    It mostly pertains to mobile.
    - He wrote [an excellent summary][17] of common patterns employed by sites
      listed on [mediaqueri.es][14]
