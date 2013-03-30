@@ -84,8 +84,8 @@ h3 {font-size:1em; text-transform:uppercase} /* 16px */
 address {display:inline; font-style:normal}
 
 .masthead {margin-bottom:2em}
-.headline {margin-bottom:0}
-.tagline {font-size:1.125em; font-style:italic; margin-top:0}
+.headline {line-height:1.2; margin-bottom:0}
+.tagline {font-size:1.125em; font-style:italic; line-height:1; margin-top:0}
 
 p {margin:0 0 1em}
 article p {text-indent:0}

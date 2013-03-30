@@ -3,6 +3,7 @@ filename: 2012-05-10-responsive-design.mkd
 revised:  2012-05-24
 layout:   post
 category: notes
+tagline:  Let your content adapt to the size of the screen
 title:    Responsive Web Design
 ---
 
