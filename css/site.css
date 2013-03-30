@@ -69,14 +69,9 @@ td {vertical-align:top}
 
 /* =============================================================================
    Primary styles
-   Author:Dan Brubaker Horst
+   Author: Dan Brubaker Horst
    ========================================================================== */
-#content {min-width:10em}
-#container {padding:1em 1.5em}
-#container {margin:0 auto; max-width:52em}
-
-#person-microformat h1 {line-height:1; margin-bottom:0}
-#person-microformat p {margin:0}
+.page {padding:1em 1.5em; margin:0 auto; max-width:52em; min-width:10em}
 
 h1,
 h2,
@@ -85,42 +80,30 @@ h1 {font-size:1.625em; margin-top:0}         /* 26px */
 h2 {font-size:1.25em; margin-top:1.375em}    /* 20px */
 h3 {font-size:1em; text-transform:uppercase} /* 16px */
 
-.home h2 {margin-bottom:0; margin-top:2em; text-transform:uppercase}
-.home .category {margin:0}
-
-h2 a,
-h2 a:hover,
-h2 a:visited {color:#222}
-
-time, header p {color:#888}
-time {display:block; white-space:nowrap;}
+.subtle {color:#888}
 address {display:inline; font-style:normal}
-header p time {display:inline}
 
-section hgroup,
-section header {margin-bottom:2em}
-hgroup h1,
-header h1 {margin-bottom:0}
-hgroup h2 {font-size:1.125em; font-style:italic; margin-top:0}
+.masthead {margin-bottom:2em}
+.headline {margin-bottom:0}
+.tagline {font-size:1.125em; font-style:italic; margin-top:0}
 
 p {margin:0 0 1em}
 article p {text-indent:0}
+time {white-space:nowrap}
 blockquote {position:relative}
 abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
 
-footer {padding:1em 0}
-footer nav {text-align:center}
-footer nav li {padding-bottom:.5em}
-footer section p {margin:0}
+.page-footer {padding:1em 0}
+.page-footer .navigation {text-align:center}
+.page-footer .content p {margin:0}
 
 .generatedcontent ul li {list-style:none; position:relative;}
 .generatedcontent ul li:before {content:"\2022"; position:absolute; top:0; left:-.8em}
-.generatedcontent footer nav li:before {content:""}
 .generatedcontent blockquote:before {color:#ccc; content:"“"; font-size:4em; position:absolute; top:-.1em; left:-.4em}
 
 /* =============================================================================
-   media queries
-   author: dan brubaker horst
+   Media Queries
+   author: Dan Brubaker Horst
    ========================================================================== */
 
 /* NOTE: media queries sized with "em" use the root font size (typically 16px) */
@@ -128,9 +111,9 @@ footer section p {margin:0}
 /* Phone landscape */
 @media only screen and (min-width:20.5em) { /* > 320 */
   #banner nav {padding:0 3em}
-  #container {padding:2em 3em}
-  footer {padding:2em 0}
-  footer nav {margin-top:2em}
+  .page {padding:2em 3em}
+  .page-footer {padding:2em 0}
+  .page-footer .navigation {margin-top:2em}
 }
 
 /* Tablet portrait */
@@ -138,26 +121,19 @@ footer section p {margin:0}
   html {font-size:112.5%; -webkit-text-size-adjust:112.5%; -ms-text-size-adjust:112.5%} /* move base size from 16px to 18px */
   h1 {font-size:1.5556em}        /* 28px */
   h2 {font-size:1.2222em}        /* 22px */
-  hgroup h2 {font-size:1.2222em} /* 22px */
-  #container {padding:2em 3em}
+  .tagline {font-size:1.2222em}  /* 22px */
   #banner nav {padding:0 3em}
-  footer {padding:4em 0 0}
-  footer nav {margin-top:2em}
-  footer p+p {margin-top:0}
-  time {display:inline}
+  .page {padding:2em 3em}
+  .page-footer {padding:4em 0 0}
+  .page-footer .navigation {margin-top:2em}
+  .page-footer p+p {margin-top:0}
 }
 
 /* Tablet landscape */
 @media only screen and (min-width:48.5em) { /* > 768 */
-  #container {max-width:40em}
-  #container {padding:4em 6em}
   #banner nav {padding:0 108px; padding:0 6em}
-  .home footer {padding:0}
   #banner nav {max-width:40em}
-  .index-page #container {min-height:20em}
-  .categories {float:left; margin-bottom:4em}
-  .categories .category {display:inline-block; float:left; min-height:15em; width:49.5%}
-  .home hr {clear:both;}
+  .page {padding:4em 6em; max-width:36em}
 }
 
 /* Large Screen */
@@ -165,8 +141,7 @@ footer section p {margin:0}
   html {font-size:137.5%; -webkit-text-size-adjust:137.5%; -ms-text-size-adjust:137.5%} /* move base size from 16px to 22px */
   h1 {font-size:2.25em}          /* 36px */
   h2 {font-size:1.4545em}        /* 32px */
-  .home h2,
-  hgroup h2 {font-size:1.1818em} /* 26px */
+  .tagline {font-size:1.1818em}  /* 26px */
   h3 {margin-top:1em}
 }
 
@@ -206,6 +181,6 @@ footer section p {margin:0}
   h2, h3 {page-break-after:avoid}
   h1 {margin-top:1em}
   header > h1 {margin-top:.5in}
-  #banner, footer{display:none}
+  #banner, .page-footer{display:none}
   html {font-size:87.5%; -webkit-text-size-adjust:87.5%; -ms-text-size-adjust:87.5%} /* move base size from 16px to 14px */
 }
