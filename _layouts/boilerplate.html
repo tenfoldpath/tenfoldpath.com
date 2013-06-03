@@ -9,14 +9,14 @@
     <meta name="viewport" content="width=device-width">
     <meta name="author" content="Dan Brubaker Horst">{% if page.description %}
     <meta name="description" content="{{ page.description }}">{% else %}
-    <meta name="description" content="{{ page.content| markdownify | strip_html | truncatewords:50 }}">{% end %}
+    <meta name="description" content="{{ page.content| markdownify | strip_html | truncatewords:50 }}">{% endif %}
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:creator" content="@danhorst">
     <meta name="twitter:url" content="{{ site.domain }}{{ page.url }}">{% if page.description %}
     <meta name="twitter:description" content="{{ page.description }}">{% else %}
-    <meta name="twitter:description" content="{{ page.content| markdownify | strip_html | truncatewords:50 }}">{% end %}
+    <meta name="twitter:description" content="{{ page.content| markdownify | strip_html | truncatewords:50 }}">{% endif %}
 
     <link rel="canonical" href="{{ site.domain }}{{ page.url }}" />
     <link rel="stylesheet" href="/css/site.css" />
