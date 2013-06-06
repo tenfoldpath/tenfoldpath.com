@@ -87,18 +87,17 @@ address {display:inline; font-style:normal}
 .headline {line-height:1.2; margin-bottom:0}
 .tagline {font-size:1.125em; font-style:italic; line-height:1; margin-top:0}
 
+abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
+blockquote {position:relative}
+li {list-style-type:square}
 p {margin:0 0 1em}
 article p {text-indent:0}
 time {white-space:nowrap}
-blockquote {position:relative}
-abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
 
 .page-footer {padding:1em 0}
 .page-footer .navigation {text-align:center}
 .page-footer .content p {margin:0}
 
-.generatedcontent ul li {list-style:none; position:relative;}
-.generatedcontent ul li:before {content:"\2022"; position:absolute; top:0; left:-.8em}
 .generatedcontent blockquote:before {color:#ccc; content:"“"; font-size:4em; position:absolute; top:-.1em; left:-.4em}
 
 /* =============================================================================
