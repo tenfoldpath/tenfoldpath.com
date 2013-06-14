@@ -3,10 +3,6 @@ auto:            true
 server_port:     4000
 analytics_token: 'UA-28083204-4'
 
-markdown: rdiscount
-rdiscount:
-  extensions: [smart, footnotes]
-
 pygments:    false
 permalink:   /:categories/:title/
 
