@@ -10,9 +10,9 @@ tagline:     Collected thoughts on various topics
   <li>
     <a href="{{post.url}}">{{post.title}}</a>
     {% if post.revised %}
-    <time class="subtle" datetime="{{ post.revised | date:"%Y-%m-%d %H:%M" }}" itemprop="dateRevised">{{ post.revised | date:"%B %e, %Y" }}</time>
+    <time class="subtle" datetime="{{ post.revised | date:'%Y-%m-%d %H:%M' }}" itemprop="dateRevised">{{ post.revised | date:"%B %e, %Y" }}</time>
     {% else %}
-    <time class="subtle" datetime="{{ post.date | date:"%Y-%m-%d %H:%M" }}" itemprop="dateRevised">{{ post.date | date:"%B %e, %Y" }}</time>
+    <time class="subtle" datetime="{{ post.date | date:'%Y-%m-%d %H:%M' }}" itemprop="dateRevised">{{ post.date | date:"%B %e, %Y" }}</time>
     {% endif %}
   </li>
   {% endfor %}
