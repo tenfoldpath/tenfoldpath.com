@@ -89,7 +89,7 @@ address {display:inline; font-style:normal}
 
 abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
 blockquote {position:relative}
-li {list-style-type:square}
+li {list-style-type:none}
 p {margin:0 0 1em}
 article p {text-indent:0}
 time {white-space:nowrap}
@@ -99,6 +99,9 @@ time {white-space:nowrap}
 .page-footer .content p {margin:0}
 
 .generatedcontent blockquote:before {color:#ccc; content:"“"; font-size:4em; position:absolute; top:-.1em; left:-.4em}
+.generatedcontent li {position:relative}
+.generatedcontent li:before {content:"\25AA"; position:absolute; top:0; left:-.75em}
+.no-generatedcontent li {list-style-type:square}
 
 /* =============================================================================
    Media Queries
