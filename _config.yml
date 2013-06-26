@@ -3,6 +3,10 @@ analytics_token: 'UA-28083204-4'
 pygments:    false
 permalink:   /:categories/:title/
 
+markdown:    rdiscount
+rdiscount:
+    extensions: [smart]
+
 exclude:
   - Gemfile
   - Gemfile.lock
