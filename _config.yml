@@ -1,11 +1,15 @@
 analytics_token: 'UA-28083204-4'
+gravatar_hash: 'aa6461def0e558a9d8b0e20479119b38'
 
-pygments:    false
-permalink:   /:categories/:title/
+pygments: false
+permalink: /:categories/:title/
 
-markdown:    rdiscount
+markdown: rdiscount
 rdiscount:
-    extensions: [smart]
+  extensions:
+    - autolink
+    - footnotes
+    - smart
 
 exclude:
   - Gemfile
