@@ -35,7 +35,7 @@ sub, sup {font-size:75%; line-height:0; position:relative; vertical-align:baseli
 sup {top:-0.5em}
 sub {bottom:-0.25em}
 
-ul, ol {margin:1em 0; padding:0}
+ul, ol {margin:1em 0; padding:0 0 0 2em}
 li > ul, li > ol {padding-left:2em}
 dd {margin:0 0 0 40px}
 nav ul, nav ol {list-style:none; list-style-image:none; margin:0; padding:0}
