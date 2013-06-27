@@ -1,11 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll',     '=1.0.2'
-gem 'liquid',     '=2.5.0'
-gem 'redcarpet',  '=2.2.2'
-gem 'maruku',     '=0.6.1'
-gem 'rdiscount',  '=1.6.8'
-gem 'RedCloth',   '=4.2.9'
+gem 'jekyll',    '~> 1.0.2'
+gem 'rdiscount', '~> 2.1.6'
 
 # Directory wather 1.5.x doesn't play well with jekyll
-gem 'directory_watcher', '~>1.4.1'
+gem 'directory_watcher', '~> 1.4.1'
