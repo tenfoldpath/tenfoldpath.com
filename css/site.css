@@ -99,7 +99,7 @@ time {white-space:nowrap}
 .page-footer .content p {margin:0}
 
 .generatedcontent li {position:relative}
-.generatedcontent li:before {border:.15em solid #222; content:""; position:absolute; top:.45em; left:-.75em}
+.generatedcontent li:before {border:.1em solid #222; content:""; position:absolute; top:.49em; left:-.6em}
 .no-generatedcontent li {list-style-type:square}
 
 /* =============================================================================
