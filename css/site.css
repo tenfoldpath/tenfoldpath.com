@@ -88,19 +88,19 @@ address {display:inline; font-style:normal}
 .tagline {font-size:1.125em; font-style:italic; line-height:1; margin-top:0}
 
 abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
-blockquote {position:relative}
-li {list-style-type:none}
-p {margin:0 0 1em}
 article p {text-indent:0}
+li p {margin-bottom:0}
+p {margin:0 0 1em}
 time {white-space:nowrap}
+ul li {list-style-type:square}
+li ul, li ol {margin-bottom:0;margin-top:0}
 
 .page-footer {padding:1em 0}
 .page-footer .navigation {text-align:center}
 .page-footer .content p {margin:0}
 
-.generatedcontent li {position:relative}
-.generatedcontent li:before {border:.1em solid #222; content:""; position:absolute; top:.49em; left:-.6em}
-.no-generatedcontent li {list-style-type:square}
+.generatedcontent ul li {list-style-type:none; position:relative}
+.generatedcontent ul li:before {border:.1em solid #222; content:""; position:absolute; top:.49em; left:-.6em}
 
 /* =============================================================================
    Media Queries
@@ -161,6 +161,65 @@ time {white-space:nowrap}
 .clearfix:before, .clearfix:after {content:""; display:table}
 .clearfix:after {clear:both}
 .clearfix {*zoom:1}
+
+/* =============================================================================
+   CSS Tooltips based on:
+   Hint.css - v1.2.2 - 2013-06-01
+   http://kushagragour.in/lab/hint/
+   Copyright (c) 2013 Kushagra Gour; Licensed MIT 
+   Source: https://github.com/chinchang/hint.css
+ ========================================================================== */
+
+abbr, abbr[title] {
+  position: relative;
+  display: inline-block;}
+abbr:before, abbr:after, abbr[title]:before, abbr[title]:after {
+  position: absolute;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  visibility: hidden;
+  opacity: 0;
+  z-index: 1000000;
+  pointer-events: none;
+  -webkit-transition: 0.3s ease;
+  -moz-transition: 0.3s ease;
+  transition: 0.3s ease; }
+abbr:hover:before, abbr:hover:after, abbr[title]:hover:before, abbr[title]:hover:after {
+  visibility: visible;
+  opacity: 1; }
+abbr:before, abbr[title]:before {
+  background: transparent;
+  border-color: #383838 transparent transparent;
+  border-style: solid;
+  border-width: 6px;
+  content: '';
+  position: absolute;
+  z-index: 1000001; }
+abbr:after, abbr[title]:after {
+  content: attr(title);
+  background: #383838;
+  color: white;
+  text-shadow: 0 -1px 0px black;
+  padding: .8em;
+  white-space: nowrap;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+  font-variant:normal;
+  text-transform:capitalize;}
+abbr:before {
+  margin-bottom: -12px; }
+abbr:after {
+  margin-left: -18px; }
+abbr:before, abbr:after {
+  bottom: 100%;
+  left: 50%; }
+abbr:hover:before, abbr:hover:after {
+  -webkit-transform: translateY(-8px);
+  -moz-transform: translateY(-8px);
+  transform: translateY(-8px); }
+abbr:after {
+  border-radius: 4px; }
+
 
 /* =============================================================================
    Print Styles
