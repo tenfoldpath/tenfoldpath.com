@@ -36,6 +36,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  directory_watcher (~> 1.4.1)
   jekyll (~> 1.0.2)
   rdiscount (~> 2.1.6)
