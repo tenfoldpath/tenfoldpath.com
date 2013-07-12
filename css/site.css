@@ -98,6 +98,8 @@ li ul, li ol {margin-bottom:0;margin-top:0}
 .page-footer {padding:1em 0}
 .page-footer .navigation {text-align:center}
 .page-footer .content p {margin:0}
+.page-footer .content .license {margin-bottom:1em;}
+.license .badge {display:block; margin-bottom:.5em; text-decoration:none; text-align:center}
 
 .generatedcontent ul li {list-style-type:none; position:relative}
 .generatedcontent ul li:before {border:.1em solid #222; content:""; position:absolute; top:.49em; left:-.6em}
