@@ -3,7 +3,7 @@ filename: 2012-05-10-responsive-design.md
 revised:  2012-05-24
 layout:   post
 category: blog
-tags:     [web, responsive, design]
+tags:     web responsive design
 tagline:  Let your content adapt to the size of the screen
 title:    Responsive Web Design
 ---

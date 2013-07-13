@@ -2,7 +2,7 @@
 filename: 2012-05-14-stage-all-deleted-files-in-a-git-repository.md
 layout:   post
 category: blog
-tags:     [git, development]
+tags:     git development
 title:    Stage All Deleted Files In A Git Repository
 ---
 I occaisionally forget to use `git rm` to delete files in a git repository.
