@@ -86,6 +86,7 @@ address {display:inline; font-style:normal}
 .masthead {margin-bottom:2em}
 .headline {line-height:1.2; margin-bottom:0}
 .tagline {font-size:1.125em; font-style:italic; line-height:1; margin-top:0}
+.text-literal {white-space:nowrap}
 
 abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
 article p {text-indent:0}
