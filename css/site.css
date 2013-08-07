@@ -83,10 +83,20 @@ h3 {font-size:1em; text-transform:uppercase} /* 16px */
 .subtle {color:#888}
 address {display:inline; font-style:normal}
 
+.person {position:relative}
 .masthead {margin-bottom:2em}
 .headline {line-height:1.2; margin-bottom:0}
 .tagline {font-size:1.125em; font-style:italic; line-height:1; margin-top:0}
 .text-literal {white-space:nowrap}
+.avatar {
+  -moz-border-radius: 150px;
+  -webkit-border-radius: 150px;
+  border-radius: 150px;
+  border: 2px solid #333;
+  position:absolute;
+  top:0;
+  left:-300px;
+}
 
 abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
 article p {text-indent:0}
