@@ -88,14 +88,21 @@ address {display:inline; font-style:normal}
 .headline {line-height:1.2; margin-bottom:0}
 .tagline {font-size:1.125em; font-style:italic; line-height:1; margin-top:0}
 .text-literal {white-space:nowrap}
+.avatar-wrapper {
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  border-radius:50%;
+  border: 1px solid #333;
+  height:154px;
+  margin:1em auto;
+  padding:2px;
+  width:154px;
+}
 .avatar {
-  -moz-border-radius: 150px;
-  -webkit-border-radius: 150px;
-  border-radius: 150px;
-  border: 2px solid #333;
-  position:absolute;
-  top:0;
-  left:-300px;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  border-radius:50%;
+  width:100%;
 }
 
 abbr{display:inline-block; font-variant:small-caps; line-height:.6; text-transform:lowercase}
@@ -160,6 +167,14 @@ li ul, li ol {margin-bottom:0;margin-top:0}
   .tagline {font-size:1.1818em}  /* 26px */
   h3 {margin-top:1em}
   .generatedcontent ul li:before {border-width:.1em}
+
+  .avatar-wrapper {
+    height:304px;
+    left:-356px;
+    position:absolute;
+    top:0;
+    width:304px;
+  }
 }
 
 /* =============================================================================
