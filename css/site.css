@@ -170,10 +170,16 @@ li ul, li ol {margin-bottom:0;margin-top:0}
 
   .avatar-wrapper {
     height:304px;
+    width:304px;
+  }
+}
+
+/* Wide Screen */
+@media only screen and (min-width:90em) { /* > 1400 */
+  .avatar-wrapper {
     left:-356px;
     position:absolute;
     top:0;
-    width:304px;
   }
 }
 
