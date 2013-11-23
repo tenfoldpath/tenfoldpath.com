@@ -113,6 +113,26 @@ time {white-space:nowrap}
 ul li {list-style-type:square}
 li ul, li ol {margin-bottom:0;margin-top:0}
 
+/* Code Styles based on Twitter Bootstrap */
+code {
+  background-color:#f9f2f4;
+  color:#c7254e;
+  font-size:90%;
+  padding:.1em .4em;
+  white-space:nowrap;
+}
+pre {
+  display:block;
+  padding:.5em;
+  margin:0 0 1em;
+  line-height:1.4;
+  color:#333;
+  word-break:break-all;
+  word-wrap:break-word;
+  background-color:#f5f5f5;
+  border:1px solid #ccc;
+}
+
 .page-footer {padding:1em 0}
 .page-footer .navigation {text-align:center}
 .page-footer .content p {margin:0}
