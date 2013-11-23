@@ -5,11 +5,10 @@ category: blog
 tags:     git development
 title:    Stage All Deleted Files In A Git Repository
 ---
-I occasionally forget to use `git rm` to delete files in a git repository.
-This happens every time I remove a file without explicitly remembering to do it a _particular_ way on the command line.
-When it comes time to commit my changes I'm presented with a problem: the deleted files are not staged for the commit.
+Sometimes I use `rm` instead of `git rm` to delete files in a git repository.
+This simple mistake means that the deleted files are not staged when I try to commit my changes.
 
-A [short post on how to use xargs][1] I found this morning let me to a simple solution to this problem:
+A [short post on how to use xargs][1] I found this morning led me to a simple solution:
 
     git ls-files -d | xargs git rm
 
@@ -22,7 +21,7 @@ How does this work?
 Each deleted file as identified by `git ls-files` gets converted to `git rm FILENAME` and then executed.
 
 In the past I had to copy and paste lines out of `git status` or type out the filenames without the benefit of tab completion in order to stage all the deleted files.
-I can eschew all that manual work with this venerable unix tool.
+I don't have to do that now.
 To speed things up even further I [added an alias][2] to my [dotfiles][3].
 
 [1]: http://bitops.io/blog/1336893229/xargs
