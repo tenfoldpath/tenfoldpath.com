@@ -19,63 +19,105 @@ extra_metadata: |
     <img src="http://www.gravatar.com/avatar/{{site.gravatar_hash}}.jpg?s=400" itemprop="image" class="avatar" alt="portrait of Dan Brubaker Horst" title="Dan Brubaker Horst" />
   </figure>
 
-  <h1>
-    Hello! I&#8217;m
-    <span class="text-literal" itemprop="name">Dan Brubaker Horst</span>.
+  <h1 id="hello">
+    Hello!
   </h1>
 
-  <p>You may know me by some other permutation of my name:</p>
-  <ul>
-    <li itemprop="name">Dan Horst</li>
-    <li itemprop="name">Daniel Horst</li>
-    <li itemprop="name">Daniel Brubaker Horst</li>
-  </ul>
+  <dl class="name-listing">
+    <dt class="name-title">I’m</dt>
+    <dd class="name" itemprop="name">Dan Brubaker Horst</dd>
+    <dd class="alternate-name" itemprop="name">Dan Horst</dd>
+    <dd class="alternate-name" itemprop="name">Daniel Horst</dd>
+    <dd class="alternate-name" itemprop="name">Daniel Brubaker Horst</dd>
+  </dl>
 
-  <p>I am the <span itemprop="jobTitle">Digital Library Applications Lead</span> at the
-    <span itemprop="worksFor" itemscope itemtype="http://schema.org/Library">
-      <a itemprop="url" href="http://www.library.nd.edu/"><span itemprop="name">Hesburgh Libraries</span></a>
-      of the
-      <span itemprop="member" itemscope itemtype="http://schema.org/CollegeOrUniversity">
-        <a itemprop="url" href="http://www.nd.edu"><span itemprop="name">University of Notre Dame</span></a>.
+
+  <h2 id="about">About Me</h2>
+
+  <dl class="about-listing">
+    <dt class="job-title">
+      <img src="#" alt="Job"/>
+    </dt>
+    <dd class="job">
+      I am the <span itemprop="jobTitle">Digital Library Applications Lead</span> at the
+      <span itemprop="worksFor" itemscope itemtype="http://schema.org/Library">
+        <a itemprop="url" href="http://www.library.nd.edu/"><span itemprop="name">Hesburgh Libraries</span></a>
+        of the
+        <span itemprop="member" itemscope itemtype="http://schema.org/CollegeOrUniversity">
+          <a itemprop="url" href="http://www.nd.edu"><span itemprop="name">University of Notre Dame</span></a>.
+        </span>
       </span>
-    </span>
-  </p>
+    </dd>
+    <dt class="education-title">
+      <img src="#" alt="Education"/>
+    </dt>
+    <dd class="education" itemprop="alumniOf" itemscope itemtype="http://schema.org/CollegeOrUniversity">
+      <a itemprop="url" href="http://www.goshen.edu"><span itemprop="name">Goshen College</span></a>
+    </dd>
+    <dt class="i-live-in">
+      <img src="#" alt="I live in"/>
+    </dt>
+    <dd>
+      <address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <a href="http://cityonthego.org/" itemprop="url"><span itemprop="addressLocality">Goshen</span></a>,
+        <abbr itemprop="addressRegion" title="Indiana">IN</abbr>
+      </address>
+      <link itemprop="nationality" href="http://en.wikipedia.org/wiki/United_States"/>
+    <dd>
+  </dl>
 
-  <p>I got my degree from
-    <span itemprop="alumniOf" itemscope itemtype="http://schema.org/CollegeOrUniversity">
-      <a itemprop="url" href="http://www.goshen.edu"><span itemprop="name">Goshen College</span></a>.
-    </span>
-  </p>
+  <h2 id="contact">I’d love to hear from you</h2>
 
-  <p class="collapse">
-    I live in
-  </p>
-  <address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-    <a href="http://cityonthego.org/" itemprop="url"><span itemprop="addressLocality">Goshen</span></a>,
-    <abbr itemprop="addressRegion" title="Indiana">IN</abbr></address>.
-
-  <h3 id="contact">Contact</h3>
-  <p>
-    You can email me at <a href="mailto:dan@brubakerhorst.com">
-      <span itemprop="email">dan@brubakerhorst.com</span></a>.
-    I&#8217;m
+  <dl class="contact-listing">
+    <dt class="email-title">
+      <img src="#" alt="Email"/>
+    </dt>
+    <dd class="email">
+      <a href="mailto:dan@brubakerhorst.com"><span itemprop="email">dan@brubakerhorst.com</span></a>
+    </dd>
+    <dt class="twitter-title">
+      <img src="#" alt="Twitter"/>
+    </dt>
+    <dd class="twitter">
       <a href="https://twitter.com/danhorst">@danhorst</a>
-    on twitter.
-    I&#8217;d love to hear from you.
-  </p>
+    </dd>
+  </dl>
 
-  <p>You can find me elsewhere on the Internet at:</p>
-  <ul>
-    <li><a itemprop="url" href="https://www.facebook.com/danhorst">facebook</a></li>
-    <li><a itemprop="url" href="http://www.flickr.com/photos/danhorst">flickr</a></li>
-    <li><a itemprop="url" href="http://www.linkedin.com/in/danhorst">linkedin</a></li>
-    <li><a itemprop="url" href="https://github.com/danhorst">github</a></li>
-    <li><a itemprop="url" href="https://plus.google.com/112599365298738218884">google+</a></li>
-    <li><a itemprop="url" href="https://twitter.com/danhorst">twitter</a></li>
+  <h3>Around the Web</h3>
+
+  <meta itemprop="nickname" content="danhorst" />
+  <ul class="social-icons">
+    <li>
+      <a itemprop="url" class="social-icon-wrapper" href="https://www.facebook.com/danhorst">
+        <img src="#" alt="facebook"/>
+      </a>
+    </li>
+    <li>
+      <a itemprop="url" class="social-icon-wrapper" href="http://www.flickr.com/photos/danhorst">
+        <img src="#" alt="flickr" />
+      </a>
+    </li>
+    <li>
+      <a itemprop="url" class="social-icon-wrapper" href="https://github.com/danhorst">
+        <img src="#" alt="github" />
+      </a>
+    </li>
+    <li>
+      <a itemprop="url" class="social-icon-wrapper" href="https://plus.google.com/+DanBrubakerHorst/">
+        <img src="#" alt="google+" />
+      </a>
+    </li>
+    <li>
+      <a itemprop="url" class="social-icon-wrapper" href="http://www.linkedin.com/in/danhorst">
+        <img src="#" alt="LinkedIn" />
+      </a>
+    </li>
+    <li>
+      <a itemprop="url" class="social-icon-wrapper" href="https://www.pinterest.com/danhorst/">
+        <img src="#" alt="Pinterest" />
+      </a>
+    </li>
   </ul>
 
-  <p>I go by the name &#8220;<span itemprop="nickname">danhorst</span>&#8221; on other sites too.</p>
-
-  <link itemprop="nationality" href="http://en.wikipedia.org/wiki/United_States"/>
   <a href="https://plus.google.com/112599365298738218884?rel=author" class="google-authorship hidden">This page was written by Dan Brubaker Horst.</a>
 </article>
