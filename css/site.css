@@ -112,7 +112,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .listing .value {
   float:right;
-  line-height:48px;
+  line-height:24px;
   margin:0;
   padding:0 0 .5em;
   width:75%;
@@ -122,9 +122,9 @@ h1,h2,h3,h4,h5,h6 {
   line-height:1.5;
 }
 
-.listing .name-title,
-.listing .name,
-.listing .alternate-name {
+#hello + .listing .name-title,
+#hello + .listing .name,
+#hello + .listing .alternate-name {
   line-height:1.4;
   margin-bottom:.3em;
   padding-bottom:0;
@@ -152,37 +152,45 @@ abbr{display:inline-block; line-height:.9}
   padding:2px;
   width:154px;
 }
+
 .avatar {
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
   border-radius:50%;
   width:100%;
 }
+
 .social-icons {
   margin:0 0 1em;
   padding:0;
   text-align:center;
 }
+
 .social-icon {
   list-style-type:none;
   padding:1em;
   display:inline-block;
 }
-.social-icon a {
+
+.icon-wrapper {
   display:block;
-  height:48px;
-  width:48px;
+  height:24px;
+  width:24px;
 }
 
-.social-icon-wrapper svg path {
+.icon .icon-wrapper {
+  margin:0 auto;
+}
+
+.social-icons .icon-wrapper svg path {
   transition-delay: 0s;
   transition-duration: 0.15s;
   transition-property: all;
   transition-timing-function:ease-in-out;
 }
 
-.social-icon-wrapper:focus svg path,
-.social-icon-wrapper:hover svg path {
+.social-icons .icon-wrapper:focus svg path,
+.social-icons .icon-wrapper:hover svg path {
   fill:#F00;
 }
 
@@ -230,7 +238,6 @@ pre {
 /* Phone landscape */
 @media only screen and (min-width:20.5em) { /* > 320 */
   #banner nav {padding:0 3em}
-  .page {padding:2em 3em}
   .page-footer {padding:2em 0}
   .page-footer .navigation {margin-top:2em}
 }
@@ -248,6 +255,8 @@ pre {
   .page-footer {padding:4em 0 0}
   .page-footer .navigation {margin-top:2em}
   .page-footer p+p {margin-top:0}
+  .icon-wrapper {height:36px; width:36px}
+  .listing .value {line-height:36px}
 }
 
 /* Tablet landscape */
@@ -264,7 +273,8 @@ pre {
   h2 {font-size:1.4545em}        /* 32px */
   .tagline {font-size:1.1818em}  /* 26px */
   h3 {margin-top:1em}
-  .generatedcontent ul li:before {border-width:.1em}
+  .icon-wrapper {height:48px; width:48px}
+  .listing .value {line-height:48px}
 
   .avatar-wrapper {
     height:304px;
