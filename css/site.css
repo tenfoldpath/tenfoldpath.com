@@ -39,76 +39,214 @@ Typeface: Licensed from https://berkeleygraphics.com/typefaces/berkeley-mono/
 }
 
 /* =============================================================================
-HTML5 Boilerplate CSS:h5bp.com/css
+HTML5 Boilerplate CSS | MIT License | h5bp.com/css
+normalize.css v8.0.1  | MIT License | github.com/necolas/normalize.css
 ========================================================================== */
 
-article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {display:block}
-audio, canvas, video {display:inline-block; *display:inline; *zoom:1}
-audio:not([controls]) {display:none}
-[hidden] {display:none}
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+  font-family: 'berkeley-mono', monospace;
+  -webkit-text-size-adjust: 100%;
+}
 
-html {font-size:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.5}
-html, button, input, select, textarea {font-family:'berkeley-mono',consolas,monospace; color:#222}
-body {margin:0; font-size:1em; line-height:1.4}
+body {
+  margin: 0;
+}
 
-::-moz-selection {background:#b3d4fc; color:#fff; text-shadow:none}
-::selection {background:#b3d4fc; color:#fff; text-shadow:none}
+main {
+  display: block;
+}
 
-a, a:hover, a:visited {color:#F00}
-a:focus {outline:thin dotted}
-a:hover, a:active {outline:0}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
 
-abbr[title] {border-bottom:1px dotted}
-b, strong {font-weight:bold}
-blockquote {margin:1em 40px}
-dfn {font-style:italic}
-hr {display:block; height:1px; border:0; border-top:1px solid #ccc; margin:1em 0; padding:0}
-ins {background:#ff9; color:#000; text-decoration:none}
-mark {background:#ff0; color:#000; font-style:italic; font-weight:bold}
-pre {white-space:pre; white-space:pre-wrap; word-wrap:break-word}
-q {quotes:none}
-q:before, q:after {content:""; content:none}
-small {font-size:85%}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
 
-sub, sup {font-size:75%; line-height:0; position:relative; vertical-align:baseline}
-sup {top:-0.5em}
-sub {bottom:-0.25em}
+a {
+  background-color: transparent;
+}
 
-ul, ol {margin:1em 0; padding:0 0 0 1em}
-li > ul, li > ol {padding-left:1em}
-dd {margin:0 0 0 40px}
-nav ul, nav ol {list-style:none; list-style-image:none; margin:0; padding:0}
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
 
-img {border:0; -ms-interpolation-mode:bicubic; vertical-align:middle}
+b,
+strong {
+  font-weight: bold;
+}
 
-svg:not(:root) {overflow:hidden}
+pre,
+code,
+kbd,
+samp {
+  font-family: 'berkeley-mono', monospace;
+  font-size: 1em;
+}
 
-figure {margin:0}
+small {
+  font-size: 80%;
+}
 
-form {margin:0}
-fieldset {border:0; margin:0; padding:0}
-label {cursor:pointer}
-legend {border:0; *margin-left:-7px; padding:0; white-space:normal}
-button, input, select, textarea {font-size:100%; margin:0; vertical-align:baseline; *vertical-align:middle}
-button, input {line-height:normal}
-button, input[type="button"], input[type="reset"], input[type="submit"] {cursor:pointer; -webkit-appearance:button; *overflow:visible}
-button[disabled], input[disabled] {cursor:default}
-input[type="checkbox"], input[type="radio"] {box-sizing:border-box; padding:0; *width:13px; *height:13px}
-input[type="search"] {-webkit-appearance:textfield; -moz-box-sizing:content-box; -webkit-box-sizing:content-box; box-sizing:content-box}
-input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-search-cancel-button {-webkit-appearance:none}
-button::-moz-focus-inner, input::-moz-focus-inner {border:0; padding:0}
-textarea {overflow:auto; vertical-align:top; resize:vertical}
-input:valid, textarea:valid { }
-input:invalid, textarea:invalid {background-color:#f0dddd}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
 
-table {border-collapse:collapse; border-spacing:0}
-td {vertical-align:top}
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+img {
+  border-style: none;
+}
+
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+
+button,
+input {
+  overflow: visible;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button;
+}
+
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+
+legend {
+  box-sizing: border-box;
+  color: inherit;
+  display: table;
+  max-width: 100%;
+  padding: 0;
+  white-space: normal;
+}
+
+progress {
+  vertical-align: baseline;
+}
+
+textarea {
+  overflow: auto;
+  resize: vertical;
+}
+
+[type="checkbox"],
+[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+[type="search"] {
+  -webkit-appearance: textfield;
+  outline-offset: -2px;
+}
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit;
+}
+
+details {
+  display: block;
+}
+
+summary {
+  display: list-item;
+}
+
+template {
+  display: none;
+}
+
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
 
 /* =============================================================================
 Primary styles
 Author: Dan Brubaker Horst
 ========================================================================== */
-.page {padding:1em 1.5em; margin:0 auto; max-width:52em; min-width:10em}
+body {padding:1em 1.5em; margin:0 auto; max-width:52em; min-width:10em}
 address {display:inline; font-style:normal}
 abbr{display:inline-block; line-height:.9}
 
@@ -124,114 +262,6 @@ h1,h2,h3,h4,h5,h6 {
   text-transform:uppercase;
 }
 
-.home h1,
-.home h2,
-.home h3,
-.home h4,
-.home h5,
-.home h6 {
-  text-align:center;
-}
-
-.listing {
-  clear:both;
-  float:left;
-  margin-bottom:2em;
-  margin-top:0;
-  width:100%;
-}
-
-.listing .icon {
-  clear:both;
-  float:left;
-  margin:0;
-  padding:0 0 .5em;
-  text-align:center;
-  width:25%;
-}
-
-.listing .value {
-  float:right;
-  line-height:24px;
-  margin:0;
-  padding:0 0 .5em;
-  width:75%;
-}
-
-.listing .value.job {
-  line-height:1.5;
-}
-
-#hello + .listing .name-title,
-#hello + .listing .name,
-#hello + .listing .alternate-name {
-  line-height:1.4;
-  margin-bottom:.3em;
-  padding-bottom:0;
-}
-
-.listing .alternate-name {
-  color:#CCC;
-}
-
-.listing.name-listing {
-  margin-bottom:0;
-}
-
-.avatar-wrapper {
-  -moz-border-radius:50%;
-  -webkit-border-radius:50%;
-  border-radius:50%;
-  border: 1px solid #333;
-  height:154px;
-  margin:1em auto 2em;
-  padding:2px;
-  width:154px;
-}
-
-.avatar {
-  -moz-border-radius:50%;
-  -webkit-border-radius:50%;
-  border-radius:50%;
-  width:100%;
-}
-
-.social-icons {
-  float:left;
-  margin:0 0 1em;
-  padding:0;
-  text-align:center;
-  width:100%;
-}
-
-.social-icon {
-  list-style-type:none;
-  padding:1em;
-  display:inline-block;
-}
-
-.icon-wrapper {
-  display:block;
-  height:24px;
-  width:24px;
-}
-
-.icon .icon-wrapper {
-  margin:0 auto;
-}
-
-.social-icons .icon-wrapper svg path {
-  transition-delay: 0s;
-  transition-duration: 0.15s;
-  transition-property: all;
-  transition-timing-function:ease-in-out;
-}
-
-.social-icons .icon-wrapper:focus svg path,
-.social-icons .icon-wrapper:hover svg path {
-  fill:#F00;
-}
-
 /* =============================================================================
 Media Queries
 author: Dan Brubaker Horst
@@ -244,14 +274,12 @@ author: Dan Brubaker Horst
   html {font-size:112.5%; -webkit-text-size-adjust:112.5%; -ms-text-size-adjust:112.5%} /* move base size from 16px to 18px */
   h1 {font-size:1.5556em}        /* 28px */
   h2 {font-size:1.2222em}        /* 22px */
-  .page {padding:2em 3em}
-  .icon-wrapper {height:36px; width:36px}
-  .listing .value {line-height:36px}
+  body {padding:2em 3em}
 }
 
 /* Tablet landscape */
 @media only screen and (min-width:48.5em) { /* > 768 */
-  .page {padding:4em 6em; max-width:36em}
+  body {padding:4em 6em; max-width:36em}
 }
 
 /* Large Screen */
@@ -260,26 +288,53 @@ author: Dan Brubaker Horst
   h1 {font-size:2.25em}          /* 36px */
   h2 {font-size:1.4545em}        /* 32px */
   h3 {margin-top:1em}
-  .icon-wrapper {height:48px; width:48px}
-  .listing .value {line-height:48px}
-  .avatar-wrapper {height:304px; width:304px}
 }
 
 /* =============================================================================
-Non-Semantic Helper Classes
+Display Helper Classes
 ========================================================================== */
 
-.ir {display:block; border:0; text-indent:-999em; overflow:hidden; background-color:transparent; background-repeat:no-repeat; text-align:left; direction:ltr; *line-height:0}
-.ir br {display:none}
-.collapse {display:inline-block;}
-.hidden {display:none !important; visibility:hidden}
-.inline {display:inline}
-.visuallyhidden {border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px}
-.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus {clip:auto; height:auto; margin:0; overflow:visible; position:static; width:auto}
-.invisible {visibility:hidden}
-.clearfix:before, .clearfix:after {content:""; display:table}
-.clearfix:after {clear:both}
-.clearfix {*zoom:1}
+.hidden,
+[hidden] {
+  display: none !important;
+}
+
+.visually-hidden {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.visually-hidden.focusable:active,
+.visually-hidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  white-space: inherit;
+  width: auto;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
 
 /* =============================================================================
 CSS Tooltips based on:
@@ -344,20 +399,65 @@ border-radius: 4px; }
 Print Styles
 ========================================================================== */
 
+@media print,
+  (-webkit-min-device-pixel-ratio: 1.25),
+  (min-resolution: 1.25dppx),
+  (min-resolution: 120dpi) {
+}
+
 @media print {
-  * {background:transparent !important; color:black !important; box-shadow:none !important; text-shadow:none !important; filter:none !important; -ms-filter:none !important} /* Black prints faster:h5bp.com/s */
-  a, a:visited {text-decoration:underline}
-  a[href]:after {content:" (" attr(href) ")"}
-  abbr[title]:after {content:" (" attr(title) ")"}
-  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {content:""}  /* Don't show links for images, or javascript/internal links */
-  pre, blockquote {page-break-inside:avoid}
-  blockquote {border:1px solid #999}
-  thead {display:table-header-group} /* h5bp.com/t */
-  tr, img {page-break-inside:avoid}
-  img {max-width:100% !important}
-  @page {margin:1in .75in}
-  p, h2, h3 {orphans:3; widows:3}
-  h2, h3 {page-break-after:avoid}
-  h1 {margin-top:1em}
-  html {font-size:87.5%; -webkit-text-size-adjust:87.5%; -ms-text-size-adjust:87.5%} /* move base size from 16px to 14px */
+  *,
+  *::before,
+  *::after {
+    background: #fff !important;
+    color: #000 !important;
+    /* Black prints faster */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]::after {
+    content: " (" attr(title) ")";
+  }
+
+  a[href^="#"]::after,
+  a[href^="javascript:"]::after {
+    content: "";
+  }
+
+  pre {
+    white-space: pre-wrap !important;
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
 }
