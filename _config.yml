@@ -1,7 +1,6 @@
 domain:          'http://dan.brubakerhorst.com'
-analytics_token: 'UA-28083204-4'
 gravatar_hash:   '5fc42f1f51ffe472c27edc9c320840fc'
-icon_url:        'apple-touch-icon-precomposed.png'
+icon_url:        'apple-touch-icon.png'
 
 highligher: null
 base_url: ''
