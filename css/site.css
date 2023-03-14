@@ -262,6 +262,48 @@ h1,h2,h3,h4,h5,h6 {
   text-transform:uppercase;
 }
 
+figure > svg {
+  width: 100%;
+}
+
+#banner {
+  height: 4em;
+  position: relative;
+  text-align: right;
+}
+
+#banner nav {
+  padding-top: 1em;
+}
+
+#banner ol {
+  display: inline;
+  list-style-type: none;
+}
+
+#banner li {
+  display: inline;
+  padding: 0 0 0 1em;
+}
+
+#banner a {
+  font-style: italic;
+  font-size: 1.4em;
+  text-transform: uppercase;
+}
+
+.lettermark {
+  left: 0;
+  margin: 0 1em 0 0;
+  position: absolute;
+  top: 0;
+  width: 4em;
+}
+
+.lettermark .background {
+  fill: #333;
+}
+
 /* =============================================================================
 Media Queries
 author: Dan Brubaker Horst
@@ -400,9 +442,9 @@ Print Styles
 ========================================================================== */
 
 @media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 1.25dppx),
+(min-resolution: 120dpi) {
 }
 
 @media print {
