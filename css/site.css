@@ -64,15 +64,6 @@ h1 {
   margin: 0.67em 0;
 }
 
-hr {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #ccc;
-  margin: 1em 0;
-  padding: 0;
-}
-
 a {
   background-color: transparent;
 }
@@ -276,8 +267,32 @@ h1,h2,h3,h4,h5,h6 {
   text-transform:uppercase;
 }
 
+hr {
+  border: 0;
+  color: #000;
+  display: block;
+  margin: 1em 0;
+  padding: 0 1.5em;
+  text-align: center;
+}
+
+hr:before {
+  content: "* * *";
+}
+
 figure > svg {
   width: 100%;
+}
+
+footer {
+  margin-bottom: 4em;
+  padding-top: 2em;
+  text-align:center;
+  text-transform: uppercase;
+}
+
+footer a {
+  font-size: 1.2em;
 }
 
 #banner {
@@ -301,7 +316,7 @@ figure > svg {
   padding: 0 0 0 1em;
 }
 
-#banner  {
+#banner {
   font-style: italic;
   font-size: 1.4em;
   text-transform: uppercase;
@@ -343,7 +358,7 @@ author: Dan Brubaker Horst
 
 /* Tablet landscape */
 @media only screen and (min-width:48.5em) { /* > 768 */
-  body {padding:4em 6em; max-width:36em}
+  body {padding:4em 6em; max-width:42em;}
 }
 
 /* Large Screen */
