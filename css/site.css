@@ -250,6 +250,20 @@ body {padding:1em 1.5em; margin:0 auto; max-width:52em; min-width:10em}
 address {display:inline; font-style:normal}
 abbr{display:inline-block; line-height:.9}
 
+a {
+  color: #F00;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  text-decoration: underline dotted;
+}
+
+a:visited {
+  color: #F00;
+}
+
 h1,
 h2,
 h3 {font-weight:normal; margin:.375em 0; line-height:1.333}
@@ -268,6 +282,7 @@ figure > svg {
 
 #banner {
   height: 4em;
+  padding-bottom: 1em;
   position: relative;
   text-align: right;
 }
@@ -286,18 +301,21 @@ figure > svg {
   padding: 0 0 0 1em;
 }
 
-#banner a {
+#banner  {
   font-style: italic;
   font-size: 1.4em;
   text-transform: uppercase;
 }
 
 .lettermark {
+  background-color: #F00;
+  border-radius: 1.7em;
   left: 0;
   margin: 0 1em 0 0;
   position: absolute;
   top: 0;
-  width: 4em;
+  width: 3em;
+  padding: .2em;
 }
 
 .lettermark .background {
