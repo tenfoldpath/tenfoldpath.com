@@ -307,6 +307,10 @@ figure > svg {
   text-transform: uppercase;
 }
 
+.more {
+  margin-right: -.3em;
+}
+
 .lettermark {
   background-color: #F00;
   border-radius: 1.7em;
