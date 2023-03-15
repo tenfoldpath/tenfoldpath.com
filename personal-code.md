@@ -18,12 +18,13 @@ title:     My Personal Code
 * * *
 
 My personal code is derived from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][1] by [Jocko Willink][2] et. al.
-That book is an attempt to apply the principles of the [US Marine Corps Performance Evaluation System (PES)][3] [to civilian life][4].
+That book is an attempt to apply the principles of the [US Marine Corps Performance Evaluation System (PES)][3] to [civilian life][4].
 I have changed it to better reflect what I want from my life; you should do the same.
 
 The driving force behind a personal code, and the continuous evaluation of ourselves against the eminent realization of that code, is a neigh-unachievable standard of self-realization to perpetually strive toward.
 No mortal can achieve the pinnacle of human performance across all aspects of life.
 The best we can do is humble ourselves, work hard, and never give up.
+Stay on the path.
 
 [1]: https://www.jockopublishing.com/the-code-the-evalution-the-protocol
 [2]: https://jocko.com/
