@@ -354,6 +354,10 @@ footer a {
   fill: #333;
 }
 
+.lettermark .subject {
+  fill: #FFF;
+}
+
 .homepage .subject {
   fill: #F00;
 }
