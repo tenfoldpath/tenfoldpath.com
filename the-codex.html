@@ -1,0 +1,18 @@
+---
+layout:    page
+permalink: /codex/
+title:     The Codex
+---
+
+<p>The Codex is a compendium of knowledge to aid those on the path to fulliling their potiential by following <a href="/code/">The Code</a>.
+
+{% for category in site.categories %}
+  <h2 id="{{ category | first }}">{{ category | first | capitalize }}</h2>
+    <ul>
+    {% for post in category.last %}
+      <li><a href="{{ post.url }}">{{ post.title | capitalize }}</a></li>
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+

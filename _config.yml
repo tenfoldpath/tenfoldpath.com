@@ -3,9 +3,17 @@ icon_url:        'apple-touch-icon.png'
 
 highligher: null
 base_url: ''
-permalink: /:title/
+permalink: /codex/:title/
 
 incremental: true
+
+defaults:
+  -
+    scope:
+      path: "/codex"
+      type: "posts"
+    values:
+      layout: "page"
 
 exclude:
   - Gemfile
