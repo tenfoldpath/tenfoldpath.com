@@ -379,6 +379,18 @@ footer a {
   text-decoration: none;
 }
 
+.footnotes {
+  text-align: center;
+}
+
+.footnotes::before {
+  content: "* * *"
+}
+
+.footnotes li {
+  text-align: left;
+}
+
 /* =============================================================================
 Media Queries
 author: Dan Brubaker Horst
