@@ -11,5 +11,3 @@ extra_metadata: |
   <meta property="og:profile:username" content="danhorst" />
   <meta property="og:profile:gender" content="male" />
 ---
-
-# DBH

@@ -70,7 +70,6 @@ a {
 
 abbr[title] {
   border-bottom: none;
-  text-decoration: underline;
   text-decoration: underline dotted;
 }
 
@@ -244,11 +243,16 @@ abbr{display:inline-block; line-height:.9}
 a {
   color: #F00;
   text-decoration: none;
+  outline: .1rem solid transparent;
 }
 
-a:focus,
+a:focus {
+  outline: .1rem dotted #F00;
+}
+
 a:hover {
-  text-decoration: underline dotted;
+  text-decoration: underline;
+  text-decoration-thickness: 0.05em;
 }
 
 a:visited {
@@ -257,7 +261,11 @@ a:visited {
 
 h1,
 h2,
-h3 {font-weight:normal; margin:.375em 0; line-height:1.333}
+h3 {
+  line-height:1.333;
+  margin:.5em 0;
+}
+
 h1 {font-size:1.625em; margin-top:0}         /* 26px */
 h2 {font-size:1.25em; margin-top:1.375em}    /* 20px */
 h3 {font-size:1em; text-transform:uppercase} /* 16px */
@@ -278,6 +286,10 @@ hr {
 
 hr:before {
   content: "* * *";
+}
+
+ol li {
+  margin-bottom: .3em;
 }
 
 figure > svg {
@@ -313,7 +325,7 @@ footer a {
 
 #banner li {
   display: inline;
-  padding: 0 0 0 1em;
+  padding: 0 0 0 .5em;
 }
 
 #banner {
@@ -324,9 +336,10 @@ footer a {
 
 .more {
   margin-right: -.3em;
+  display: none;
 }
 
-.lettermark {
+#banner .lettermark {
   background-color: #F00;
   border-radius: 1.7em;
   left: 0;
@@ -339,6 +352,27 @@ footer a {
 
 .lettermark .background {
   fill: #333;
+}
+
+.homepage .subject {
+  fill: #F00;
+}
+
+.homepage a {
+  display: block;
+  font-size: 4em;
+  margin-bottom: .2em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.homepage a:focus,
+.homepage a:hover {
+  outline: .3rem solid #F00;
+}
+
+.homepage a:hover {
+  text-decoration: none;
 }
 
 /* =============================================================================
@@ -354,11 +388,15 @@ author: Dan Brubaker Horst
   h1 {font-size:1.5556em}        /* 28px */
   h2 {font-size:1.2222em}        /* 22px */
   body {padding:2em 3em}
+  .more {display: inline;}
 }
 
 /* Tablet landscape */
 @media only screen and (min-width:48.5em) { /* > 768 */
   body {padding:4em 6em; max-width:42em;}
+  #banner li {
+    padding: 0 0 0 .7em;
+  }
 }
 
 /* Large Screen */
