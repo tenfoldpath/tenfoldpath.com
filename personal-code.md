@@ -8,7 +8,7 @@ title:     My Personal Code
 2. I will sharpen and expand my mind by reading, writing, drawing, building, creating, and engaging in other mentally stimulating disciplines.
 3. I will tend to my physical surroundings, keeping them clean, in order, well-maintained, and free of unnecessary or unused things.
 4. I will set goals and strive to achieve them. I will stay on the path.
-5. I will excel in my job because professional success brings resources to many facets of life.
+5. I will excel in my job because professional success spills over into other facets of life.
 6. I will not waste time. Time must be spent meeting the needs of the present or invested into meeting the needs of the future. Time is precious; time is life.
 7. I will not waste money. Financial independence is the foundation of a self-determined life.
 8. I will be humble and not allow my ego to negatively impact my decisions or my behavior.
