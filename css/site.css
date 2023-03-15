@@ -407,6 +407,33 @@ author: Dan Brubaker Horst
   h3 {margin-top:1em}
 }
 
+@media (prefers-color-scheme: dark) {
+  html {
+    background: #000;
+    color: #FFF;
+  }
+
+  #banner .subject {
+    fill: #000;
+  }
+
+  #banner .shadow {
+    fill: #FFF;
+  }
+
+  hr {
+    color: #FFF;
+  }
+
+  .homepage .shadow {
+    fill: #363636;
+  }
+
+  .homepage a {
+    text-shadow: #363636 2px 2px 1px;
+  }
+}
+
 /* =============================================================================
 Display Helper Classes
 ========================================================================== */
