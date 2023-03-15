@@ -7,8 +7,8 @@ Typeface: Licensed from https://berkeleygraphics.com/typefaces/berkeley-mono/
   font-style: normal;
   font-weight: normal;
   font-stretch: normal;
-  font-display: auto;
-  src: url('/fonts/berkeley-mono.woff2') format("woff2");
+  font-display: swap;
+  src: local('Berkeley Mono Regular'), url('/fonts/berkeley-mono.woff2') format("woff2");
 }
 
 @font-face {
@@ -16,8 +16,8 @@ Typeface: Licensed from https://berkeleygraphics.com/typefaces/berkeley-mono/
   font-style: normal;
   font-weight: bold;
   font-stretch: normal;
-  font-display: auto;
-  src: url('/fonts/berkeley-mono-bold.woff2') format("woff2");
+  font-display: swap;
+  src: local('Berkeley Mono Bold'), url('/fonts/berkeley-mono-bold.woff2') format("woff2");
 }
 
 @font-face {
@@ -25,8 +25,8 @@ Typeface: Licensed from https://berkeleygraphics.com/typefaces/berkeley-mono/
   font-style: italic;
   font-weight: normal;
   font-stretch: normal;
-  font-display: auto;
-  src: url('/fonts/berkeley-mono-italic.woff2') format("woff2");
+  font-display: swap;
+  src: local('Berkeley Mono Italic'), url('/fonts/berkeley-mono-italic.woff2') format("woff2");
 }
 
 @font-face {
@@ -34,8 +34,8 @@ Typeface: Licensed from https://berkeleygraphics.com/typefaces/berkeley-mono/
   font-style: italic;
   font-weight: bold;
   font-stretch: normal;
-  font-display: auto;
-  src: url('/fonts/berkeley-mono-bold-italic.woff2') format("woff2");
+  font-display: swap;
+  src: local('Berkeley Mono Bold Italic'), url('/fonts/berkeley-mono-bold-italic.woff2') format("woff2");
 }
 
 /* =============================================================================
