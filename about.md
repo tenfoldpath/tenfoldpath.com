@@ -23,7 +23,7 @@ I write about work (software engineering) and some of my other interests over at
 
 I write about hobby rocketry over at [rocketlabdelta.com][2].
 
-[^1]: I have neither the expertise nor the analytical tools tool perform original scientific research or critically review primary source material myself. I rely on experts to do the heavy lifting and will do my best to cite their work in [The Codex](/codex/).
+[^1]: I have neither the expertise nor the analytical tools tool perform original scientific research or critically review primary source material myself. I rely on experts to do the heavy lifting and do my best to cite their work in [The Codex](/codex/).
 
 [1]: https://www.danhorst.com
 [2]: https://rocketlabdelta.com
