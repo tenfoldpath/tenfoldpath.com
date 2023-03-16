@@ -1,5 +1,5 @@
 ---
-layout: empty
+layout: boilerplate
 ---
 
 There is a problem with your network connection.  
