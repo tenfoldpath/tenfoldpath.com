@@ -405,9 +405,9 @@ author: Dan Brubaker Horst
 
 /* Tablet portrait */
 @media only screen and (min-width:30.5em) { /* > 480 */
-  html {font-size:112.5%; -webkit-text-size-adjust:112.5%; -ms-text-size-adjust:112.5%} /* move base size from 16px to 18px */
-  h1 {font-size:1.5556em}        /* 28px */
-  h2 {font-size:1.2222em}        /* 22px */
+  html {font-size:112.5%; -webkit-text-size-adjust:112.5%; text-size-adjust:112.5%} /* move base size from 16px to 18px */
+  h1 {font-size:1.5556em}     /* 28px */
+  h2 {font-size:1.2222em}     /* 22px */
   body {padding:2em 3em}
   ol {padding-inline-start:0}
 }
@@ -418,6 +418,9 @@ author: Dan Brubaker Horst
 
 /* Tablet landscape */
 @media only screen and (min-width:48.5em) { /* > 768 */
+  html {font-size:125%; -webkit-text-size-adjust:125%; text-size-adjust:125%} /* move base size from 16px to 20px */
+  h1 {font-size:1.5em}        /* 30px */
+  h2 {font-size:1.2em}        /* 24px */
   body {padding:4em 6em; max-width:42em;}
   #banner li {
     padding: 0 0 0 .7em;
@@ -426,9 +429,9 @@ author: Dan Brubaker Horst
 
 /* Large Screen */
 @media only screen and (min-width:64.5em) { /* > 1024 */
-  html {font-size:137.5%; -webkit-text-size-adjust:137.5%; -ms-text-size-adjust:137.5%} /* move base size from 16px to 22px */
-  h1 {font-size:2.25em}          /* 36px */
-  h2 {font-size:1.4545em}        /* 32px */
+  html {font-size:150%; -webkit-text-size-adjust:150%; text-size-adjust:150%} /* move base size from 16px to 24px */
+  h1 {font-size:2.25em}       /* 54px */
+  h2 {font-size:1.5em}        /* 36px */
   h3 {margin-top:1em}
 }
 
