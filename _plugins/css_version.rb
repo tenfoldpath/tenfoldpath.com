@@ -1,6 +1,4 @@
 class CssVersion < Liquid::Tag
-  attr_reader :path, :caption, :alt, :klass
-
   # Prints the commit hash of the latest commit to the site CSS
   #
   # Use:
@@ -17,7 +15,7 @@ class CssVersion < Liquid::Tag
   private
 
   def css_bundle
-    File.expand_path(File.join(File.dirname(__FILE__), '../assets/css/main.scss'))
+    File.expand_path(File.join(__dir__, '../css/site.css'))
   end
 
   def find_latest_commit(file_path)
