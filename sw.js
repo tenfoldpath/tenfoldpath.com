@@ -24,14 +24,14 @@ function updateStaticCache () {
     .then(staticCache => {
       // These items won't block the installation of the Service Worker
       staticCache.addAll([
-        'fonts/berkeley-mono-bold-italic.woff2',
-        'fonts/berkeley-mono-bold.woff2',
-        'fonts/berkeley-mono-italic.woff2',
-        'fonts/berkeley-mono.woff2'
+        '/fonts/berkeley-mono-bold-italic.woff2',
+        '/fonts/berkeley-mono-bold.woff2',
+        '/fonts/berkeley-mono-italic.woff2',
+        '/fonts/berkeley-mono.woff2'
       ])
       // These items must be cached for the Service Worker to complete installation
       return staticCache.addAll([
-        '/assets/css/main.css?' + version,
+        '/css/site.css?' + version,
         '/offline'
       ])
     })
