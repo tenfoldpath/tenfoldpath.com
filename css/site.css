@@ -288,6 +288,11 @@ hr:before {
   content: "* * *";
 }
 
+ol {
+  padding-left: 1.5em;
+  padding-inline-start: 1.5em;
+}
+
 ol li {
   margin-bottom: .3em;
 }
@@ -404,6 +409,10 @@ author: Dan Brubaker Horst
   h1 {font-size:1.5556em}        /* 28px */
   h2 {font-size:1.2222em}        /* 22px */
   body {padding:2em 3em}
+  ol {padding-inline-start:0}
+}
+
+@media only screen and (min-width:40em) { /* > 640 */
   .more {display: inline;}
 }
 
