@@ -1,4 +1,4 @@
-domain:          'https://dan.brubakerhorst.com'
+domain:          'https://tenfoldpath.com'
 icon_url:        'apple-touch-icon.png'
 
 highligher: null
@@ -20,4 +20,3 @@ exclude:
   - Gemfile.lock
   - LICENSE.txt
   - README.md
-  - TODO.md
