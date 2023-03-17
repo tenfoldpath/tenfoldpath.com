@@ -1,6 +1,6 @@
-# My Personal Website
+# The Tenfold Path
 
-This repo contains the source for: [dan.brubkerhorst.com](http://dan.brubakerhorst.com)
+This repo contains the source for: [tenfoldpath.com](http://tenfoldpath.com)
 
 The text in this repo follows the "one sentence per line rule".
 I find this helpful for two reasons:
@@ -16,4 +16,4 @@ All aspects of the site e.g. the jekyll configuration, templates, CSS, JavaScrip
 My writings, photos, and diagrams are released under a [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US) licence.
 A copy of this licence is present at the root of each directory applies to.
 
-The site template was derived from [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate)
+The site template was derived from [HTML5 boilerplate](https://github.com/h5bp/html5-boilerplate).
