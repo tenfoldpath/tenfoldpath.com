@@ -37,7 +37,7 @@ I write about work (software engineering) and some of my other interests over at
 I write about hobby rocketry over at [rocketlabdelta.com][8].
 
 [^1]: I have neither the expertise nor the analytical tools tool perform original scientific research or critically review primary source material myself. I rely on experts to do the heavy lifting and do my best to cite their work in [The Codex](/codex/).
-[^2]: And, you know, [ten commandments](https://en.wikipedia.org/wiki/Ten_Commandments).
+[^2]: And, you know, the [ten commandments](https://en.wikipedia.org/wiki/Ten_Commandments).
 [^3]: There is a concept of the tenfold path in some Buddhist cannons but I didn't find out about that until after I chose the name.
 
 [1]: https://en.wikipedia.org/wiki/Noble_Eightfold_Path
