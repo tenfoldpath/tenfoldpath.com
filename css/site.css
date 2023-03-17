@@ -389,7 +389,10 @@ footer a {
 }
 
 .footnotes::before {
-  content: "* * *"
+  content: "* *\00000a*";
+  display: block;
+  line-height: 1;
+  white-space: pre-wrap;
 }
 
 .footnotes li {
