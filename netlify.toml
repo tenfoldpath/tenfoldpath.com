@@ -4,4 +4,4 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
-    Content-Security-Policy = "default-src 'self' dan.brubakerhorst.com; style-src 'self'; worker-src 'self'; script-src 'self'; object-src 'none'; base-uri 'none';"
+    Content-Security-Policy = "default-src 'self' tenfoldpath.com; style-src 'self'; worker-src 'self'; script-src 'self'; object-src 'none'; base-uri 'none';"

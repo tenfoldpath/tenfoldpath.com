@@ -9,23 +9,8 @@
     <meta name="description" content="{{ page.description }}" />{% else %}
     <meta name="description" content="{{ page.content| markdownify | strip_html | truncatewords:50 }}" />{% endif %}
 
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:url" content="{{ site.domain }}{{ page.url }}" />{% if page.image %}
-    <meta property="og:image" content="{{ page.image }}" />{% else %}
-    <meta property="og:image" content="{{ site.domain }}{{ site.icon_url }}" />{% endif %}{% if page.type %}
-    <meta property="og:type" content="{{ page.type }}" />{% else %}
-    <meta property="og:type" content="article" />{% endif %}{% if page.extra_metadata %}
-{{ page.extra_metadata }}{% endif %}
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:creator" content="@danhorst" />
-    <meta name="twitter:url" content="{{ site.domain }}{{ page.url }}" />{% if page.description %}
-    <meta name="twitter:description" content="{{ page.description }}" />{% else %}
-    <meta name="twitter:description" content="{{ page.content| markdownify | strip_html | truncatewords:50 }}" />{% endif %}
-
     <link rel="canonical" href="{{ site.domain }}{{ page.url }}" />
     <link rel="stylesheet" href="/css/site.css?{% css_version %}" />
-    <link rel="meta" type="application/rdf+xml" title="FOAF" href="{{ site.domain }}/danhorst.rdf" />
 
     <meta http-equiv="cleartype" content="on" />
     <link rel="preload" as="font" type="font/woff2" href="/fonts/berkeley-mono.woff2" crossorigin />
