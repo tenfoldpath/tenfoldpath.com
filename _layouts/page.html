@@ -1,18 +1,23 @@
 ---
-layout:    boilerplate
+layout: boilerplate
 ---
 {% include banner.html %}
 
-<main class="main" role="main" itemscope itemtype="http://schema.org/BlogPosting">
+<main>
+  <article>
+    <header class="masthead">
+      {% if page.tagline %}
+      <hgroup>
+        <h1 class="headline">{{ page.title }}</h1> <span class="visually-hidden">&mdash;</span>
+        <p class="tagline">{{ page.tagline }}</p>
+      </hgroup>
+      {% else %}
+      <h1 class="headline">{{ page.title }}</h1>
+      {% endif %}
+    </header>
 
-  <header class="masthead">
-    <h1 class="headline instapaper_ignore">{{ page.title }}</h1>
-  </header>
-
-  <article itemprop="articleBody" class="instapaper_body">
 {{ content }}
   </article>
-
 </main>
 
 <footer class="page-footer">
