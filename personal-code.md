@@ -6,8 +6,8 @@ title:     My Personal Code
 
 1. I will protect my physical health by training, eating well, and getting the rest I need to recover and rebuild.
 2. I will sharpen and expand my mind through reflection, meditation, and creative expression. I will challenge my brain to be faster, more focused, and more capable.
-3. I will tend to my physical surroundings by keeping them clean, in order, well-maintained, and free of unnecessary or unused things.
-4. I will set goals and strive to achieve them. I will stay on the path.
+3. I will set goals and strive to achieve them. I will stay on the path.
+4. I will tend to my physical surroundings by keeping them clean, in order, well-maintained, and free of unnecessary or unused things.
 5. I will excel in my career. Professional success spills over into other facets of life.
 6. I will not waste time. I will spend time meeting the needs of the present or invest time into meeting the needs of the future. Time is precious; time is life.
 7. I will not waste money. Financial independence is the foundation of a self-determined life.
@@ -17,7 +17,7 @@ title:     My Personal Code
 
 * * *
 
-These ten aspirations come from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][1] by [Jocko Willink][2] et. al..
+The core of these ten aspirations come from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][1] by [Jocko Willink][2] et. al..
 That book attempts to apply the principles of the [US Marine Corps Performance Evaluation System (PES)][3] to [civilian life][4].
 I have changed them to reflect what I want from my life; you should do the same.
 
