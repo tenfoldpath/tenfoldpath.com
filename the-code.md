@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    section
 permalink: /code/
 title:     The Code
 ---
@@ -17,7 +17,7 @@ title:     The Code
 
 * * *
 
-The core of these ten aspirations come from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][1] by [Jocko Willink][2] et. al..
+The core of these ten aspirations comes from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][1] by [Jocko Willink][2] et. al..
 That book attempts to apply the principles of the [US Marine Corps Performance Evaluation System (PES)][3] to [civilian life][4].
 I have changed them to reflect what I want from my life; you should do the same.
 
