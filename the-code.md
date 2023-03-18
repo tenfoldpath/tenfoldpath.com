@@ -1,7 +1,7 @@
 ---
 layout:    page
 permalink: /code/
-title:     My Personal Code
+title:     The Code
 ---
 
 1. I will protect my physical health by training, eating well, and getting the rest I need to recover and rebuild.
