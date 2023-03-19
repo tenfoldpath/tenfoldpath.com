@@ -314,6 +314,7 @@ footer a {
   font-size: 1.2em;
 }
 
+li,
 p {
   -webkit-hyphens: auto;
   -webkit-hyphenate-limit-before: 3;
