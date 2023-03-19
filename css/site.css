@@ -481,6 +481,13 @@ author: Dan Brubaker Horst
   h3 {margin-top:1em}
 }
 
+@media only screen and (min-width:75em) { /* > 1200 */
+  html {font-size:150%; -webkit-text-size-adjust:150%; text-size-adjust:150%} /* move base size from 16px to 24px */
+  h1 {font-size:2.25em}       /* 54px */
+  h2 {font-size:1.5em}        /* 36px */
+  h3 {margin-top:1em}
+}
+
 @media (orientation: landscape) {
   .homepage {
     max-width: 50em;
