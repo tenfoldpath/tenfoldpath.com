@@ -236,6 +236,7 @@ video {
 Primary styles
 Author: Dan Brubaker Horst
 ========================================================================== */
+html {border-top: 1px solid #000;}
 body {padding:1em 1.5em; margin:0 auto; max-width:52em; min-width:10em}
 address {display:inline; font-style:normal}
 abbr{display:inline-block; line-height:.9}
@@ -395,6 +396,10 @@ p {
   padding-bottom: 2em;
 }
 
+.homepage .shadow {
+  fill: #000;
+}
+
 .homepage .subject {
   fill: #F00;
 }
@@ -404,6 +409,7 @@ p {
   font-size: 4em;
   margin-bottom: .2em;
   text-align: center;
+  text-shadow: 2px 2px 0 #000;
   text-transform: uppercase;
 }
 
@@ -454,9 +460,7 @@ author: Dan Brubaker Horst
   html {font-size:112.5%; -webkit-text-size-adjust:112.5%; text-size-adjust:112.5%} /* move base size from 16px to 18px */
   body {padding:2em 3em;}
   #banner .more {display: inline;}
-  .homepage article {
-    margin-top: 3em;
-  }
+  .homepage article {margin-top: 3em;}
 }
 
 @media only screen and (min-width:48.5em) and (orientation: portrait) { /* > 768 */
@@ -464,9 +468,7 @@ author: Dan Brubaker Horst
   h1 {font-size:1.5em}        /* 30px */
   h2 {font-size:1.2em}        /* 24px */
   body {padding:4em; max-width:42em;}
-  #banner li {
-    padding: 0 0 0 .7em;
-  }
+  #banner li {padding: 0 0 0 .7em;}
   .homepage {padding-top: 2em;}
   .homepage .more {display: inline;}
 }
@@ -474,9 +476,7 @@ author: Dan Brubaker Horst
 @media only screen and (min-width:64.5em) { /* > 1024 */
   body {padding:4em 6em; max-width:42em;}
   .homepage .more {display: inline;}
-  .homepage article {
-    margin-top: 2em;
-  }
+  .homepage article {margin-top: 2em;}
 }
 
 @media only screen and (min-width:64.5em) and (orientation: portrait) { /* > 1024 */
@@ -491,6 +491,8 @@ author: Dan Brubaker Horst
   h1 {font-size:2.25em}       /* 54px */
   h2 {font-size:1.5em}        /* 36px */
   h3 {margin-top:1em}
+  #banner li {padding: 0 0 0 .7em;}
+  .homepage article {margin-top: 3em;}
 }
 
 @media (orientation: landscape) {
@@ -539,7 +541,7 @@ author: Dan Brubaker Horst
   }
 
   .homepage a {
-    text-shadow: #363636 2px 2px 1px;
+    text-shadow: 2px 2px 0 #363636;
   }
 }
 
