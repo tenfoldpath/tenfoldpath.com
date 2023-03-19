@@ -365,6 +365,18 @@ footer a {
   fill: #FFF;
 }
 
+.homepage h1 {
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+
+.homepage .lettermark {
+  margin: 0 auto;
+  max-width: 24em;
+  padding-bottom: 2em;
+}
+
 .homepage .subject {
   fill: #F00;
 }
