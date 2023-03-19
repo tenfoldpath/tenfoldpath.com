@@ -1,27 +1,31 @@
 ---
 layout: boilerplate
 ---
-{% include banner.html %}
+<body class="codex-page">
+  {% include banner.html %}
 
-<main>
-  <article>
-    <header class="masthead">
-      {% if page.tagline %}
-      <hgroup>
-        <h1 class="headline">{{ page.title }}</h1> <span class="visually-hidden">&mdash;</span>
-        <p class="tagline">{{ page.tagline }}</p>
-      </hgroup>
-      {% else %}
-      <h1 class="headline">{{ page.title }}</h1>
-      {% endif %}
-    </header>
+  <main>
+    <article>
+      <header class="masthead">
+        {% if page.tagline %}
+        <hgroup>
+          <h1 class="headline">{{ page.title }}</h1> <span class="visually-hidden">&mdash;</span>
+          <p class="tagline">{{ page.tagline }}</p>
+        </hgroup>
+        {% else %}
+        <h1 class="headline">{{ page.title }}</h1>
+        {% endif %}
+      </header>
 
-{{ content }}
-  </article>
-</main>
+      {{ content }}
+    </article>
+  </main>
 
-<footer class="page-footer">
-  <nav class="navigation">
-    <a href="/">Home</a>
-  </nav>
-</footer>
+  <footer class="page-footer">
+    <nav class="navigation">
+      <a href="/">Home</a>
+    </nav>
+  </footer>
+
+  <script src="/js/site.js"></script>
+</body>
