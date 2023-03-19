@@ -4,7 +4,7 @@ permalink: /code/
 title:     The Code
 ---
 
-1. I will protect my physical health by training, eating well, and getting the rest I need to recover and rebuild.
+1. I will protect my physical health by [training][1], eating well, and getting the rest I need to recover and rebuild.
 2. I will sharpen and expand my mind through reflection, meditation, and creative expression. I will challenge my brain to be faster, more focused, and more capable.
 3. I will set goals and strive to achieve them. I will stay on the path.
 4. I will tend to my physical surroundings by keeping them clean, in order, well-maintained, and free of unnecessary or unused things.
@@ -29,7 +29,9 @@ The best we can do is humble ourselves, work hard, and never give up.
 
 Stay on the path.
 
-[1]: https://www.jockopublishing.com/the-code-the-evalution-the-protocol
-[2]: https://jocko.com/
-[3]: https://www.marines.mil/News/Publications/MCPEL/Tag/90159/performance-evaluation-system/
-[4]: https://jockopodcast.com/2020/04/21/226-the-code-the-evaluation-the-protocols-the-path-with-dave-berke/
+[1]: /codex/training/
+[6]: https://www.jockopublishing.com/the-code-the-evalution-the-protocol
+[7]: https://jocko.com/
+[8]: https://www.marines.mil/News/Publications/MCPEL/Tag/90159/performance-evaluation-system/
+[9]: https://jockopodcast.com/2020/04/21/226-the-code-the-evaluation-the-protocols-the-path-with-dave-berke/
+
