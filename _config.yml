@@ -5,10 +5,17 @@ highligher: null
 base_url: ''
 permalink: /codex/:title/
 
+author:
+  name: Dan Brubaker Horst
+  uri: https://dan.brubakerhorst.com/
+
 incremental: true
 
 plugins:
   - jekyll-feed
+
+feed:
+  posts_limit: 20
 
 defaults:
   -

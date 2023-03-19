@@ -1,7 +1,8 @@
 ---
-layout:    section
-permalink: /about/
-title:     About
+layout:      section
+permalink:   /about/
+description: What is the Tenfold Path and how did it come to be?
+title:       About
 ---
 
 The Tenfold Path is a website by [Dan Brubaker Horst][1] (DBH).
