@@ -4,7 +4,7 @@ permalink: /code/
 title:     The Code
 ---
 
-1. I will protect my physical health by [training][1], eating well, and getting the rest I need to recover and rebuild.
+1. I will protect my physical health by [training][1], [eating well][2], and getting the [rest][3] I need to [recover][4] and [rebuild][5].
 2. I will sharpen and expand my mind through reflection, meditation, and creative expression. I will challenge my brain to be faster, more focused, and more capable.
 3. I will set goals and strive to achieve them. I will stay on the path.
 4. I will tend to my physical surroundings by keeping them clean, in order, well-maintained, and free of unnecessary or unused things.
@@ -17,8 +17,8 @@ title:     The Code
 
 * * *
 
-The core of these ten aspirations comes from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][2] by [Jocko Willink][3] et. al..
-That book applies the principles of the [US Marine Corps Performance Evaluation System (PES)][4] to [civilian life][5].
+The core of these ten aspirations comes from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][6] by [Jocko Willink][7] et. al..
+That book applies the principles of the [US Marine Corps Performance Evaluation System (PES)][8] to [civilian life][9].
 I have rewritten The Code to make it my own.
 It reflects what I want from my life.
 You should do the same.
@@ -30,8 +30,11 @@ The best we can do is humble ourselves, work hard, and never give up.
 Stay on the path.
 
 [1]: /codex/training/
-[2]: https://www.jockopublishing.com/the-code-the-evalution-the-protocol
-[3]: https://jocko.com/
-[4]: https://www.marines.mil/News/Publications/MCPEL/Tag/90159/performance-evaluation-system/
-[5]: https://jockopodcast.com/2020/04/21/226-the-code-the-evaluation-the-protocols-the-path-with-dave-berke/
-
+[2]: /codex/nutrition/
+[3]: /codex/sleep/
+[4]: /codex/recovery/
+[5]: /codex/muscle/
+[6]: https://www.jockopublishing.com/the-code-the-evalution-the-protocol
+[7]: https://jocko.com/
+[8]: https://www.marines.mil/News/Publications/MCPEL/Tag/90159/performance-evaluation-system/
+[9]: https://jockopodcast.com/2020/04/21/226-the-code-the-evaluation-the-protocols-the-path-with-dave-berke/
