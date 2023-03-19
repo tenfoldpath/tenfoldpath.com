@@ -437,7 +437,7 @@ author: Dan Brubaker Horst
 /* NOTE: media queries sized with "em" use the root font size (typically 16px) */
 
 /* Tablet portrait */
-@media only screen and (min-width:30.5em) { /* > 480 */
+@media only screen and (min-width:30.5em) and (orientation: portrait) { /* > 480 */
   html {font-size:112.5%; -webkit-text-size-adjust:112.5%; text-size-adjust:112.5%} /* move base size from 16px to 18px */
   h1 {font-size:1.5556em}     /* 28px */
   h2 {font-size:1.2222em}     /* 22px */
@@ -466,6 +466,10 @@ author: Dan Brubaker Horst
   h1 {font-size:2.25em}       /* 54px */
   h2 {font-size:1.5em}        /* 36px */
   h3 {margin-top:1em}
+}
+
+@media (orientation: landscape) {
+
 }
 
 @media (prefers-color-scheme: dark) {
