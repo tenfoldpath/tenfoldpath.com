@@ -51,10 +51,6 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-body {
-  margin: 0;
-}
-
 main {
   display: block;
 }
@@ -236,7 +232,7 @@ video {
 Primary styles
 Author: Dan Brubaker Horst
 ========================================================================== */
-html {border-top: 1px solid #000;}
+html {border-top: 1px solid #000; width: 100%}
 body {padding:1em 1.5em; margin:0 auto; max-width:52em; min-width:10em}
 address {display:inline; font-style:normal}
 abbr{display:inline-block; line-height:.9}
