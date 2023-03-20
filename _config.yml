@@ -20,7 +20,7 @@ feed:
 defaults:
   -
     scope:
-      path: "/codex"
+      path: ""
       type: "posts"
     values:
       layout: "page"
