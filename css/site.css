@@ -1,3 +1,9 @@
+---
+---
+/* =============================================================================
+CSS Distribution Version: {% css_version %}
+========================================================================== */
+
 /* =============================================================================
 Typeface: Licensed from https://berkeleygraphics.com/typefaces/berkeley-mono/
 ========================================================================== */
@@ -292,12 +298,22 @@ ul {
   padding-inline-start: 1em;
 }
 
-ol {
-  padding-left: 1.9em;
-  padding-inline-start: 1.9em;
+main ol {
+  list-style-type: none;
+  margin-left: 2.3em;
+  padding-inline-start: 0em;
+  padding-left: 0em;
+}
+
+main ol li::before {
+  content: '' counter(list-item, decimal-leading-zero) '.';
+  left: -2.3em;
+  position: absolute;
+  top: 0;
 }
 
 ol li {
+  position: relative;
   margin-bottom: .3em;
 }
 
@@ -454,13 +470,13 @@ author: Dan Brubaker Horst
   h1 {font-size:1.5556em}     /* 28px */
   h2 {font-size:1.2222em}     /* 22px */
   body {padding:2em 3em}
-  ol, ul {padding-inline-start:0}
+  main ol, main ul {margin-left:0}
 }
 
 @media only screen and (min-width:40em) { /* > 640 */
   html {font-size:112.5%; -webkit-text-size-adjust:112.5%; text-size-adjust:112.5%} /* move base size from 16px to 18px */
   body {padding:2em 3em;}
-  ol, ul {padding-inline-start:0}
+  main ol, main ul {margin-left:0}
   #banner .more {display: inline;}
   .homepage article {margin-top: 3em;}
 }
