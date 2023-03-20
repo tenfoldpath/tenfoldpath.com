@@ -268,9 +268,9 @@ h2 {font-size:1.25em; margin-top:1.375em}    /* 20px */
 h3 {font-size:1em; text-transform:uppercase} /* 16px */
 
 h1,h2,h3,h4,h5,h6 {
-  font-weight:bold;
+  font-weight: bold;
   letter-spacing: .05em;
-  text-transform:uppercase;
+  text-transform: uppercase;
   word-spacing: -.3em;
 }
 
@@ -288,8 +288,8 @@ hr:before {
 }
 
 ol {
-  padding-left: 1.5em;
-  padding-inline-start: 1.5em;
+  padding-left: 1.9em;
+  padding-inline-start: 1.9em;
 }
 
 ol li {
@@ -382,7 +382,7 @@ p {
 .homepage h1 {
   font-style: italic;
   font-weight: normal;
-  margin-top: 1em;
+  margin: 1em 0 1.5em;
   text-align: center;
 }
 
@@ -455,6 +455,7 @@ author: Dan Brubaker Horst
 @media only screen and (min-width:40em) { /* > 640 */
   html {font-size:112.5%; -webkit-text-size-adjust:112.5%; text-size-adjust:112.5%} /* move base size from 16px to 18px */
   body {padding:2em 3em;}
+  ol {padding-inline-start:0}
   #banner .more {display: inline;}
   .homepage article {margin-top: 3em;}
 }
