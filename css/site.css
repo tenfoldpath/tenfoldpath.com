@@ -287,6 +287,11 @@ hr:before {
   content: "* * *";
 }
 
+ul {
+  padding-left: 1em;
+  padding-inline-start: 1em;
+}
+
 ol {
   padding-left: 1.9em;
   padding-inline-start: 1.9em;
@@ -449,13 +454,13 @@ author: Dan Brubaker Horst
   h1 {font-size:1.5556em}     /* 28px */
   h2 {font-size:1.2222em}     /* 22px */
   body {padding:2em 3em}
-  ol {padding-inline-start:0}
+  ol, ul {padding-inline-start:0}
 }
 
 @media only screen and (min-width:40em) { /* > 640 */
   html {font-size:112.5%; -webkit-text-size-adjust:112.5%; text-size-adjust:112.5%} /* move base size from 16px to 18px */
   body {padding:2em 3em;}
-  ol {padding-inline-start:0}
+  ol, ul {padding-inline-start:0}
   #banner .more {display: inline;}
   .homepage article {margin-top: 3em;}
 }
