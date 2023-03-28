@@ -11,9 +11,11 @@ I hope it is of some use to you.
 
 I am not a doctor or a registered dietitian.
 I do not hold any credentials where taking my advice at face value regarding your health and well-being would be a good idea.
+_Please consult a professional before you change your diet or exercise routine._
+
 I have done my best to compile information that is vetted and valid[^1].
 However, as with all everything derived from the scientific process, new research and analysis is continually refining, and sometimes challenging, previously held assumptions and beliefs.
-Please consult a professional before you change your diet or exercise routine.
+It takes a while for new information to trickle down to me.
 
 Moreover, I capture the things that work _for me_.
 Individual differences in epigenetic expression, gut microbiome, environmental factors, and a host of other variables mean that what works for me, or even what works for most people on average, _may not_ work for you.
