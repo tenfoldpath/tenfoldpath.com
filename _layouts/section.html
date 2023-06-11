@@ -5,12 +5,8 @@ layout: boilerplate
   {% include banner.html %}
 
   <main>
-    <header class="masthead">{% if page.tagline %}
-      <hgroup>
-        <h1 class="headline">{{ page.title }}</h1> <span class="visually-hidden">&mdash;</span>
-        <p class="tagline">{{ page.tagline }}</p>
-      </hgroup>{% else %}
-      <h1 class="headline">{{ page.title }}</h1>{% endif %}
+    <header class="masthead">
+      <h1 id="{{ page.title | slugify }}" class="headline">{{ page.title }}</h1>
     </header>
 
     {{ content }}
