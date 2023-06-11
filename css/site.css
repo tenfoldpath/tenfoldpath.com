@@ -317,6 +317,10 @@ ol li {
   margin-bottom: .3em;
 }
 
+.section-page ol li {
+  margin-bottom: 1em;
+}
+
 figure > svg {
   width: 100%;
 }
