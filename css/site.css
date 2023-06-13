@@ -312,9 +312,17 @@ main ol li::before {
   top: 0;
 }
 
+
 ol li {
   position: relative;
-  margin-bottom: .3em;
+}
+
+li  {
+  margin-bottom: .7em;
+}
+
+ul ul {
+  padding-top: .7em;
 }
 
 .section-page ol li {
