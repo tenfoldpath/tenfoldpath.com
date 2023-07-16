@@ -17,8 +17,8 @@ title:     The Code
 
 * * *
 
-The core of these ten aspirations comes from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][1] by [Jocko Willink][2] et. al..
-That book applies the principles of the [US Marine Corps Performance Evaluation System (PES)][3] to [civilian life][4].
+The core of these ten aspirations comes from [_The Code. The Evaluation. The Protocols: Striving to Become and Eminently Qualified Human_][2] by [Jocko Willink][3] et. al..
+That book applies the principles of the [US Marine Corps Performance Evaluation System (PES)][4] to [civilian life][5].
 I have rewritten The Code to make it my own.
 It reflects what I want from my life.
 You should do the same.
@@ -30,8 +30,8 @@ The best we can do is humble ourselves, work hard, and never give up.
 Stay on the path.
 
 [1]: /codex/training/
-[6]: https://www.jockopublishing.com/the-code-the-evalution-the-protocol
-[7]: https://jocko.com/
-[8]: https://www.marines.mil/News/Publications/MCPEL/Tag/90159/performance-evaluation-system/
-[9]: https://jockopodcast.com/2020/04/21/226-the-code-the-evaluation-the-protocols-the-path-with-dave-berke/
+[2]: https://www.jockopublishing.com/the-code-the-evalution-the-protocol
+[3]: https://jocko.com/
+[4]: https://www.marines.mil/News/Publications/MCPEL/Tag/90159/performance-evaluation-system/
+[5]: https://jockopodcast.com/2020/04/21/226-the-code-the-evaluation-the-protocols-the-path-with-dave-berke/
 
