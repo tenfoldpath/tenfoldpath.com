@@ -1,0 +1,108 @@
+---
+category: health
+title:    Nutrition
+---
+
+Functional, sustainable nutrition habits are critical for living a healthy life.
+You can't exercise enough to make up for eating poorly[^1] so, at the very least, you must eat _well enough_ to build a solid foundation.
+The key characteristics of a good diet are:
+
+1. It keeps you in the right _energy balance_ to achieve your goals
+2. It provides _enough protein_ to promote muscle protein synthesis
+3. It promotes _metabolic health_ by avoiding spikes in blood sugar and the corresponding insulin response
+4. It is _enjoyable enough_ that you can maintain adherence over time
+
+## Energy Balance
+
+Energy balance compares the amount of energy your body needs to amount of food you eat each day _on average_.
+
+- _Positive energy balance_ means you are eating _more_ than you need
+    - It is easier to build muscle in positive energy balance
+    - Your body stores excess energy in adipose tissue (fat) when you maintain a positive energy balance
+- _Neutral energy balance_ means you are only eating enough to _maintain_ your current body weight
+- _Negative energy balance_ means you are eating _less_ than you need
+    - Muscles waste away faster in negative energy balance[^2]
+    - Your body _uses up_ the excess energy stored in adipose tissue when you maintain a negative energy balance
+
+The amount of energy you body burns each day depends on your activity level, your genetics, your gut microbiome, and a host of other factors.
+There is about 400–600 calories of "wiggle room" per day that your body can absorb by raising and lowering a number of metabolic processes.
+
+## Protein
+
+There are three macronutrients:
+
+- _Carbohydrates_ are sugars, starches, and other substances your body breaks down into glucose
+    - Carbohydrates are the primary fuel your body uses when you are in positive energy balance
+- _Protein_ is made up of amino acids; it is primarily used is to build the proteins your body needs
+    - Protein _can_ be used as fuel but it isn't very efficient; your body favors other sources of energy
+- _Fat_ is made up of fatty acids and, in [metabolically health people][1], it can be used as fuel—especially when you're in negative energy balance
+    - Dietary fat is easy for your body to store as your adipose tissue if you are in positive energy balance
+
+You can vary the distribution of carbohydrates and fat in your diet to meet your energy needs but your body _requires_ a certain amount of protein intake to _maintain_ muscle mass and _even more_ to _promote_ increasing muscle mass.
+Since [growing your muscles][2] is critical for your long-term health, you _must_ pay attention to your protein intake.
+To do this, you must consider:
+
+- The total amount of protein you eat
+    - Your body needs about 300g of protein per day to support necessary metabolic processes
+        - Your body can get up to 50% of the protein it needs through recycling what it already has
+        - As you age, the rate you can recycle protein goes down so you need a corresponding increase dietary protein to prevent being in a protein deficit; the decline isn't linear, there is a sharp drop off after 40
+    - A daily target of 1.2–1.8 g/kg/day of protein maximizes muscle protein synthesis
+    - A serving of protein that you're digesting is called a bolus
+        - The _minimum_ effective size of a bolus is around 25g; smaller servings don't activate mTOR[^3]
+        - The _maximum_ effective size of a bolus is around 60g; any more is discarded as waste
+- The "[quality][3]" of the protein you eat
+    - The three most important amino acids for muscle protein synthesis are leucine, lysine, and methionine
+        - Leucine in particular is critical; aim for ≥3g of leucine in the first and last meals of the day (this usually requires about 45g of protein but the exact amount depends on the amino acid distribution of what you're eating)
+        - Leucine is ketogenic; it is metabolized as a fatty acid because of its structure
+    - The more protein you eat, towards the 1.8 g/kg/day level, the quality of the protein you eat matters less
+
+The main takeaway here is that you need to eat a _lot_ of protein to support growing and maintaining muscle—almost assuredly more than you would eat without being deliberate about it.
+
+## Metabolic Health
+
+Metabolically health people can switch between using glycolytic (glucose-based) energy sources and fatty-acid based energy sources.
+Metabolic health is underpinned by mitochondrial function.
+Mitochondrial function is improved by [endurance training][4] and, unless you are currently doing enough of it, you are _almost certainly not_ metabolically healthy.
+
+Metabolic health can also be influenced by diet.
+Specifically, spikes in blood glucose—and the corresponding spikes in insulin response—can be moderated with dietary factors:
+
+- The total amount of carbohydrates in your diet
+    - One rule of thumb is to keep carbohydrates to less that 30g/meal to dampen insulin response
+- The [glycemic index][5] of the carbohydrates you consume
+    - Carbohydrates in unprocessed foods, like vegetables, are stored in and around dietary fiber which slows their digestion
+    - Processed, and especially hyper-processed, foods digest _faster_ which causes spikes in blood sugar
+
+Both of these measures help to regulate your level of blood glucose.
+The _most accurate_ way to track your blood glucose is with a continuous glucose monitor (CGM) like the ones made by [Dexcom][6].[^4]
+Because the FDA classifies any device that could be used to _administer_ insulin as medical devices, CGMs aren't readily available to consumers unless you have a prescription from your doctor.
+
+## Palatability & Pleasure
+
+Eating good food is one of life's simple pleasures.
+If you don't enjoy what you're eating _enough_ then you're not going to be able to sustain your eating habits for the long term.
+The trick is finding the right balance between:
+
+- Meeting your nutritional needs
+- Exercising enough
+- Having times where you can enjoy yourself
+
+The most important thing is to find things that you _actually like_ for you to eat on a regular basis.
+Changing your diet can change your palate[^5] so what you like in the future may not be the same things you crave now.
+And, even when you're eating the kind of food you need consistently, it's still totally fine to have the occasional meal or, or day, where you eat whatever makes you happy.[^6]
+
+[^1]: People who do hours a day of [endurance training][4] _can_ eat a lot and get away with it but it is _always_ possible to outpace your calories burned by over-eating.
+[^2]: You can mitigate this risk by maintaining a _modest_ energy deficit, around 200-400 calories per day.
+[^3]: [mTOR][7] (Mammalian target of [rapamycin][8]) is the primary signaling mechanism for muscle protein synthesis.
+[^4]: There is a clear benefit for CGM devices in people with diabetes and those who are at risk of developing diabetes. The benefit for metabolically healthy people is less clear but, at the very least, they are still a window into what is _actually happening_ in your body.
+[^5]: I followed a ketogenic diet for over a year. In that time my cravings for sugar essentially disappeared. My mood improved too.
+[^6]: _If you are not diabetic. If you have diabetes don't be careless; you could die._ As long as you are metabolically healthy, you can take some form "diet break" for a week or two, like on a vacation or the holiday season, and the consequences won't be too dire—especially if you maintain reasonable portion sizes.
+
+[1]: /codex/nutiriton/#metabolic-health
+[2]: /codex/strengh-training/
+[3]: https://en.wikipedia.org/wiki/Protein_quality
+[4]: /codex/endurance-training/
+[5]: https://en.wikipedia.org/wiki/Glycemic_index
+[6]: https://www.dexcom.com/en-us
+[7]: https://en.wikipedia.org/wiki/MTOR
+[8]: https://en.wikipedia.org/wiki/Sirolimus

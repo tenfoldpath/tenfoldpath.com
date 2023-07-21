@@ -238,6 +238,7 @@ video {
 Primary styles
 Author: Dan Brubaker Horst
 ========================================================================== */
+:root { color-scheme: light dark }
 html {border-top: 1px solid #000; width: 100%}
 body {padding:1em 1.5em; margin:0 auto; max-width:52em; min-width:10em}
 address {display:inline; font-style:normal}
@@ -298,7 +299,8 @@ ul {
   padding-inline-start: 1em;
 }
 
-main ol {
+main ol,
+main ul {
   list-style-type: none;
   margin-left: 2.3em;
   padding-inline-start: 0em;
@@ -312,8 +314,24 @@ main ol li::before {
   top: 0;
 }
 
+main ul li::before {
+  content: '\00B7';
+  left: -1.1em;
+  position: absolute;
+  top: 0;
+}
 
-ol li {
+main ul ul li::before {
+  color: #F00;
+}
+
+main ul ul ul li::before {
+  color: CanvasText;
+}
+
+
+ol li,
+ul li {
   position: relative;
 }
 
@@ -321,8 +339,10 @@ li  {
   margin-bottom: .7em;
 }
 
-ul ul {
+main ol ol,
+main ul ul {
   padding-top: .7em;
+  margin-left: .85em;
 }
 
 .section-page ol li {
