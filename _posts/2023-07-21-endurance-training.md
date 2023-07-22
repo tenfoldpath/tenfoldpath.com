@@ -1,5 +1,5 @@
 ---
-category: Health
+category: health
 title: Endurance Training
 ---
 
