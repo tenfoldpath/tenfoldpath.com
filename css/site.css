@@ -355,9 +355,12 @@ figure > svg {
 
 blockquote {
   border: 0 0 0 1px solid CanvasText;
-  font-variant: italic;
   margin: 1em 0;
   padding: 0 0 0 1em;
+}
+
+blockquote p {
+  font-variant: italic;
 }
 
 blockquote em,
