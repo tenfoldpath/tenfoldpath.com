@@ -353,6 +353,18 @@ figure > svg {
   width: 100%;
 }
 
+blockquote {
+  border: 0 0 0 1px solid CanvasText;
+  font-variant: italic;
+  margin: 1em 0;
+  padding: 0 0 0 1em;
+}
+
+blockquote em,
+blockquote i {
+  font-style: normal;
+}
+
 footer {
   margin-bottom: 4em;
   padding-top: 2em;
