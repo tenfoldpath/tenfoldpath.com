@@ -54,8 +54,6 @@ Carbohydrates are a class of nutrients that are similar in chemical structure bu
 Sugars are the simplest and are digested the fastest.
 Starch is the most complex and must be broken down into sugars before it can be further digested.
 
-
-
 The most common dietary sugars are glucose and fructose.
 Table sugar is about a 50/50 mix of glucose and fructose while high-fructose corn syrup is 60% fructose and 40% glucose.
 Glucose and fructose are metabolized in different ways.
@@ -65,7 +63,7 @@ Glucose and fructose are metabolized in different ways.
 - Fructose is preferentially turned into adipose tissue.[^3]
 
 The liver uses carbohydrates to create and store glycogen which your body uses to maintain glucose homeostasis during long bouts of exercise.
-Endurance athletes “bonk” when they run out of glycogen and their fueling can’t keep up with their their energy needs.
+Endurance athletes “bonk” when they run out of glycogen and the nutrients from they’re absorbing from the food they eat during the activity can’t keep up with their their energy (and/or electrolyte) needs.
 
 ### Protein
 
@@ -89,22 +87,51 @@ To do this, you must consider:
 
 The main takeaway here is that you need to eat a _lot_ of protein to support growing and maintaining muscle—almost assuredly more than you would eat without being deliberate about it.[^2]
 
+## Micronutrients
+
+Macros aren’t everything.
+Your body needs lots of different vitamins and minerals in trace amounts.
+It’s tempting to use supplements to meet these needs but it’s better to get micronutrients from real, minimally processed food if you can.
+
+The supplement industry is loosely regulated and rife with bold claims that are hard to verify.
+
+- Are you getting a large enough does for it to have a meaningful effect?
+- How does the bioavailability of the _form_ or of the micronutrient in the supplement compare to food sources?
+- Do you need additional nutrients in order to effectively process it?
+- How consistent is the supplement potency form batch to batch?
+- High-quality supplements are _expensive_. Are they worth it to you for the benefit they provide?
+
+## Fiber
+
+Dietary fiber helps digestive health and, in general, is a good proxy for seeing if you’re eating enough minimally-processed fruits and vegetables.
+The RDA for fiber is almost assuredly _more_ than you are eating now unless you’re being deliberate about it.
+
+The fiber in your diet that comes from food helps regulate nutrient and sugar absorption in addition to being good for your GI health.
+Fiber supplements, in pills or added to processed food, don’t do the same thing.
+
 ## Metabolic Health
 
 Metabolically health people can switch between using glycolytic (glucose-based) energy sources and fatty-acid based energy sources.
 Metabolic health is underpinned by mitochondrial function.
-Mitochondrial function is improved by [endurance training][4] and, unless you are currently doing enough of it, you are _almost certainly not_ metabolically healthy.
+Mitochondrial function is improved by [endurance training][4] and, unless you are currently doing several hours of endurance training a week, you are _almost certainly not_ metabolically healthy.
 
 Metabolic health can also be influenced by diet.
 Specifically, spikes in blood glucose—and the corresponding spikes in insulin response—can be moderated with dietary factors:
 
 - The total amount of carbohydrates in your diet.
     - One rule of thumb is to keep carbohydrates to less that 30g/meal to dampen insulin response.
-- The [glycemic index][5] of the carbohydrates you consume.
+- The [glycemic index][5] of the carbohydrates you consume. The higher the glycemic index the faster sugar enters your bloodstream.
     - Carbohydrates in unprocessed foods, like vegetables, are stored in and around dietary fiber which slows their digestion.
     - Processed, and especially hyper-processed, foods digest _faster_ which causes spikes in blood sugar.
+- Energy balance also plays a role in metabolic health.
+	- Maintaining a negative energy balance can adversely affect your metabolic health because your body reacts to the calorie deficit by slowing your metabolism.
+	- Maintaining a positive energy balance means your body is far more likely to _only_ use glycolytic energy sources for fuel; this effect is more pronounced the larger the energy surplus. Many diabetic and pre-diabetic people have lost the ability to use fatty acids as fuel and thus _depend solely_ on energy from the sugar that’s wrecking havoc on their overall health.
 
-Both of these measures help to regulate your level of blood glucose.
+The factors listed above all point to the benefits of moderation.
+Tempering the amount and the speed that sugar enters your bloodstream helps your body maintain glucose homeostasis without having to work too hard.
+Keep your pancreas and your liver happy; they’ll thank you for it later in life.
+
+Your blood sugar levels are a good proxy for understanding your metabolic health.
 The _most accurate_ way to track your blood glucose is with a continuous glucose monitor (CGM) like the ones made by [Dexcom][6].[^5]
 Because the FDA classifies any device that could be used to _administer_ insulin as medical devices, CGMs aren't readily available to consumers unless you have a prescription from your doctor.
 
