@@ -95,7 +95,9 @@ The main takeaway here is that you need to eat a _lot_ of protein to support gro
 ### Fat
 
 Fat is an essential nutrient.
-Your body _requires_ enough dietary fat to support proper endocryne and hormonal functions as well as brain health.
+Your body _requires_ enough dietary fat to support a healthy endocrine system as fat is an essential ingredient for hormone production.
+Dietary fat intake can also impact  many areas of brain function; it is necessary for cognitive health.
+
 Most people eat too much total fat while simultaniously not eating _enough_ of _specific kinds_ of fat.
 
 - Polyunsaturated fat, including omega-3 and omega-6 fatty acids, have clear long-term health benefits when consumed regularly in sufficient quantity. Good sources of polyunsaturated fat include: sunflower seeds, flax seeds (and oil), and wild-caught[^7] fatty fish like salmon, herring, mackerel, etc. Most people don't get enough in their diet without supplementation or deliberate planing.
@@ -123,7 +125,7 @@ Ketogenic ("keto") diets aren't a great idea in the long term.
 
 Physique athletes, like body builders, must maintain a _very low_ fat intake to get to competitive levels of leanness.
 This can cause all kinds of issues as you're depriving your body of an essential nutrient.
-There may not be any long-term consequences for doing this occasionally but you can't _maintain_ extremely low levels of body fat _and_ have good long-term health outcomes.
+There may not be any long-term consequences for doing this _occasionally_ but you can't _maintain_ extremely low levels of body fat _and_ have good long-term health outcomes.
 
 ## Micronutrients
 
