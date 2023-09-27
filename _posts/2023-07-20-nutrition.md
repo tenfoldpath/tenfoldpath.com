@@ -69,8 +69,8 @@ Starch is the most complex and must be broken down into sugars before it can be 
 Carbohydrates are a critical part of a functional diet.
 Do not avoid eating them to be "healthy."
 Consumption of _refined_ carbohydrates like white flour and added sugar can impact your [metabolic health][1] and should be done in moderation.
-Favor longer-digesting, lower [glycemic index][2] sources of carbohydrates like beans, legumes, sweet potatoes, and [cruciferous vegetables][3].
-Eating carbohydrates _in combination_ with fat and protein helps regulate their digestion and absorption.
+Favor longer-digesting, lower [glycemic index][2] sources of carbohydrates like whole grains (it's best if they're not ground into flour), legumes (beans, lentils peanuts), sweet potatoes, [cruciferous vegetables][3], and others [too numerous to list here](https://www.sciencedirect.com/science/article/pii/S0002916523058409?via=ihub).
+Eating carbohydrates _in combination_ with fat, protein, and fiber helps regulate their digestion and absorption.
 
 The common dietary sugars are glucose and fructose.
 Table sugar is about a 50/50 mix of glucose and fructose while high-fructose corn syrup is 60% fructose and 40% glucose.
@@ -127,14 +127,14 @@ Your body preferentially uses carbohydrates as fuel.
 Fats are left in reserve unless you sustain a negative energy balance over time or eat so few carbohydrates you enter and maintain [ketosis][6].
 Using fat as your primary fuel can be helpful in specific situations:
 
-- For endurance athletes in extremely-long-duration events
+- For endurance athletes in extremely-long-duration events.
 - As an augmentation to a cancer treatment plan for cancer patients; cancer cells can multiply at a prodigious rate because they can metabolize up to 500 times more glucose than a normal cell. Starve them and it gives other therapies a competitive advantage.
-- As part of a targeted, short-term fat-loss program
+- As part of a targeted, short-term fat-loss program.
 
 Ketogenic ("keto") diets aren't a great idea in the long term.
 
-- It is easy to have a high saturated fat intake which, as noted above, is not a good idea for the long term.
-- They are prone to diet fatigue as they forbid many kinds of food and require a lot of food prep.
+- It is easy to have a high saturated fat intake which, as noted above, is bad for the long term health outcomes.
+- They forbid many kinds of food and require a lot of food prep so they are prone to diet fatigue.
 - Things go off the rails easily. If you eat enough carbs to get _out_ of ketosis _while_ eating a lot of fat it's not a good situation.
 - Your liver is responsible for producing the ketones your body needs as fuel while in ketosis. Drinking alcohol can compromise its ability to do that.
 - In general, it's not a good idea to eliminate one of the three macronutrients from your diet.
@@ -150,22 +150,23 @@ Your body needs lots of different vitamins and minerals in trace amounts.
 It’s tempting to use supplements to meet these needs but it’s better to get micronutrients from real, minimally processed food if you can.
 
 The supplement industry is loosely regulated and rife with bold claims that are hard to verify.
+Ask yourself these questions before taking a supplement:
 
 - Are you getting a large enough dose for it to have a meaningful effect?
 - How does the bioavailability of the _form_ or the micronutrient in the supplement compare to food sources?
 - Do you need additional nutrients to effectively process it?
 - How consistent is the supplement potency from batch to batch?
-- High-quality supplements are _expensive_. Are they worth it to you for the benefit they provide?
+- High-quality supplements are _expensive_. Are they worth the cost to you for the benefit they provide?
 
 You will probably benefit from _some_ supplementation depending on your training needs.
-[Examine.com](https://examine.com) is a good place to start for your research.
+[Examine.com](https://examine.com) is a good place to start your research.
 However, figuring out _which_ supplements and _how much_ to take for _your specific situation_ can be tricky to figure out on your own.
 Talk to a nutritionist—ideally with credentials in sports nutrition—if you can.
 
 ## Fiber
 
 Dietary fiber helps digestive health and, in general, is a good proxy for seeing if you’re eating enough minimally processed fruits and vegetables.
-The RDA for fiber is almost assuredly _more_ than you are eating now unless you’re being deliberate about it.
+The RDA for fiber (28g per 2000 calories) is almost assuredly _more_ than you are eating now unless you’re being deliberate about it.
 
 The fiber in your diet that comes from food helps regulate nutrient and sugar absorption in addition to being good for your GI health.
 Fiber supplements, in pills or added to processed food, don’t do the same thing.
