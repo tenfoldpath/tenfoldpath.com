@@ -8,8 +8,8 @@ You can't exercise enough to make up for eating poorly[^0] so, at the very least
 The key characteristics of a good diet are:
 
 1. It keeps you in the right [_energy balance_](#energy-balance) to achieve your goals.
-2. It provides [_enough protein_](#protein) to promote muscle protein synthesis.
-3. It promotes [_metabolic health_][1] by avoiding spikes in blood sugar and the subsequent corresponding insulin response.
+2. It provides [_enough protein_](#protein) to help you build muscle.
+3. It promotes [_metabolic health_][1] by avoiding spikes in blood sugar and the subsequent insulin response.
 4. It is [_enjoyable enough_](#palatability--pleasure) that you can maintain adherence over time.
 
 ## Mindset
@@ -21,7 +21,8 @@ You will need to experiment, observe, and make refinements to determine what wor
 The information compiled here attempts to distill practical applications of nutritional science.
 However, it can be easy to get lost in the weeds, chasing down details that aren't important, if science is your only tool.
 The opening of [_Mastering Mindful Eating_](https://www.penguinrandomhouse.com/books/624254/mastering-mindful-eating-by-michelle-babb-ms-rd-cd/) by [Michelle Babb](https://eatplaybe.com/books/) contrasts the "art" of eating with the science of nutrition.
-The art of eating embraces the _experience_ of eating and _listening to your body_; practices like this are a reminder to invest in your holistic health, not just chase metrics to be optimized.
+The art of eating embraces the _experience_ of eating and _listening to your body_; practices like this are a reminder to invest in your holistic health.
+Don’t just optimize metrics; live your life.
 
 ## Energy Balance
 
