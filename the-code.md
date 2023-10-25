@@ -11,7 +11,7 @@ title:     The Code
 5. I will excel in my career. Professional success spills over into other facets of life.
 6. I will not waste time. I will spend time meeting the needs of the present or invest time into meeting the needs of the future. Time is precious; time is life.
 7. I will not waste money. Financial independence is the foundation of a self-determined life.
-8. I will be humble. I will treat everyone with respect. My ego will not negatively impact my decisions or behavior.
+8. I will treat everyone with respect. I will be humble. My ego will not negatively impact my decisions or behavior.
 9. I will be mindful of my emotions. I will not let frustration, anger, anxiety, or fear cloud my judgment or dictate my behavior.
 10. I will put others before myself. I will care for my family and friends. I will be a dutiful, steadfast life partner.
 
