@@ -55,7 +55,7 @@ Buying fitness equipment is a slippery slope.
 Just because you have something in your home doesn't mean you will _use_ it.[^3]
 You can get a lot of mileage out of:
 
-- _A kettlebell or two_ I get a _lot_ of use out of a good, 1 pood[^5] [(35lb) kettlebell][14] for "exercise snacks" during the workday.
+- _A kettlebell or two_ I get a _lot_ of use out of a good, 1 pood[^4] [(35lb) kettlebell][14] for "exercise snacks" during the workday.
 - _A pair of adjustable dumbbells_ I bought a set of [Ironmaster adjustable dumbbells][15] ahead of the COVID-19 pandemic to be the foundation of a home gym. They are great quality and spectacularly solid. There are other dumbbells on the market that adjust _faster_ but I haven't found any I can recommend without reservations.
 - _A chin-up bar_ [the kind that fits in a door frame is fine][16]
 - _A set of exercise bands_ [elitefts makes some nice ones][17], [as does Rogue][18]
