@@ -54,6 +54,7 @@ html {
   font-size: 1em;
   line-height: 1.4;
   font-family: 'berkeley-mono', monospace;
+  hanging-punctuation: first last;
   -webkit-text-size-adjust: 100%;
 }
 
