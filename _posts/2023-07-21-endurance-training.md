@@ -5,11 +5,11 @@ title: Endurance Training
 
 Endurance training has significant benefits. It:
 
-- Improves mitochondrial function
-    - Allows your muscles' ability to use fatty acids as fuel
-    - Raises the level of energy output before switching to lactate
-    - Protects against metabolic dysfunction
-- Increases aerobic capacity
+- Improves mitochondrial function (starting at about 20 minutes).
+    - Allows your muscles' ability to use fatty acids as fuel (you use up intramuscular triglycerides and start pulling from somatic lipid cells after 30 to 45 minutes).
+    - Raises the level of energy output before switching to lactate.
+    - Protects against metabolic dysfunction.
+- Increases aerobic capacity.
 
 The most effective way to train for improved endurance is long bouts of easy, steady-state exercise.
 For the best results, you must:
