@@ -303,9 +303,16 @@ ul {
 main ol,
 main ul {
   list-style-type: none;
-  margin-left: 2.3em;
   padding-inline-start: 0em;
   padding-left: 0em;
+}
+
+main ol {
+  margin-left: 2.3em;
+}
+
+main ul {
+  margin-left: 1em;
 }
 
 main ol li::before {
