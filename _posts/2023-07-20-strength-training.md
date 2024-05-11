@@ -7,28 +7,30 @@ tags:     training
 Strength is the foundation of a long, healthy life.[^1]
 
 - Muscle mass is critical to maintaining metabolic health.
-- You loose muscle as you age[^2] (sarcopenia) so the stronger you are _now_ the better off you will be in the future.
+- You lose muscle as you age[^2] (sarcopenia) so the stronger you are _now_ the better off you will be in the future.
 - Resistance training is the best way to increase, or at least maintain, bone mineral density which prevents bone loss as you age (osteopenia & osteoporosis).
 - Fast-twitch muscles help you maintain balance and let you catch yourself instead of falling. These muscle fibers are stimulated by explosive movement.
 
 Muscles grow over time through consistent application of sufficient training stimulus.
-Training stimulus for strength work can be broken down into:
+Training stimulus for strength is basically:
 
-- Movement: The exercises you perform.
-  - Area of activation: Which muscles are engaged.
-  - Range of motion: How far you move when performing the exercise.
-  - Technique: Your proficiency at maximizing the benefit while minimize the risk of injury for a given movement.
-- Work: How much effort you apply to the movement over time.
-  - Resistance: How much tension you apply to the movement.
-  - Time under tension: How long you perform the movement during a training session.
+- _Movement:_ The exercises you perform.
+  - _Area of activation:_ Which muscles are engaged.
+  - _Range of motion:_ How far you move when performing the exercise.
+  - _Technique:_ Your proficiency at maximizing the benefit while minimize the risk of injury for a given movement.
+- _Work:_ How much effort you apply to the movement over time.
+  - _Resistance:_ How much tension you apply to the movement.
+  - _Time under tension:_ How long you perform the movement during a training session.
 
 > How do you translate a conceptual understanding of muscle development into a workout routine?
 
 If you care about _why_ and _how_ strength training works you'll need to do some more reading.
 Start with [The Complete Strength Training Guide][1] by [Greg Nuckols][2].
 It weighs in at 54 pages and is a better, more concise resource than most books on the subject.
+Another commonly recommended resource is [Starting Strength](https://aasgaardco.com/store/books-posters-dvd/books/starting-strength-basic-barbell-training/) by [Mark Rippetoe](https://startingstrength.com/author/mark-rippetoe).
+Social media content, even by “evidence-based” creators, varies widely in quality and efficacy but  [Jeff Nippard](https://youtube.com/@JeffNippard) is a reliable source of good information.
 
-If you don’t want to start by reading a short book, the [fundamental concepts of training][3] strength are:
+If you don’t want to start by reading a book, the [fundamental concepts of training][3] strength are:
 
 - _Consistency_ [Goals are achieved][4] in days and years. Do what you need to do _every day_—even if it's resting—and the results will build up over time.
 - _Progressive overload_ You must increase the amount of _work_[^3] you perform in your training to get better over time. Increase work by increasing weight, repetitions, speed, or a combination of thereof.
