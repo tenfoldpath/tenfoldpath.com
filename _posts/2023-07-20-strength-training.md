@@ -46,9 +46,9 @@ It doesn't make sense to invest enough time to gain the expertise required to de
 Use a beginner-friendly training plan and learn what works for you as you progress.
 
 - I started with [Stronglifts 5×5][6] and added accessory work[^4] as needed.
-- I have purchased several programs from [Meghan Callaway Fitness][7] for both specific results and general fitness; they are very good (don't ask me about my adherence)[^5].
+- I have purchased several programs from [Meghan Callaway Fitness][7] for both specific results and general fitness; they are very good (don't ask me about my adherence).[^5]
 - I have heard good things about [Couch to Barbell][8] by [Casey Johnston][9] of [Ask a Sowle Woman][10] & [She's a Beast][11] fame.
-- [Boostcamp][12] has a lot of popular strength programs available in an app format; [the one by Greg Nuckols][13] looks especially promising.
+- The [Boostcamp][12] app comes with a lot of popular strength programs preloaded; [the one by Greg Nuckols][13] looks especially promising.
 
 ## Equipment
 
@@ -65,7 +65,7 @@ Not having the "right" equipment _does not_ prevent you from training.
 You can make gains with bodyweight movements, a handful of exercise bands, and jugs of water.
 Training at an elite level _does_ require specialized equipment but you're probably better off finding a specialized gym than buying it all yourself.
 
-> You can learn a lot about a gym from it's equipment choices; if they only have weight machines and cardio equipment go somewhere else.
+> You can learn a lot about a gym from its equipment choices; if they only have weight machines and cardio equipment go somewhere else.
 
 Buying fitness equipment is a slippery slope.
 Just because you have something in your home doesn't mean you will _use_ it.[^5]
