@@ -51,6 +51,7 @@ Use a beginner-friendly training plan and learn what works for you as you progre
 - I have purchased several programs from [Meghan Callaway Fitness][15] for both specific results and general fitness; they are very good (don't ask me about my adherence).[^5]
 - The [Boostcamp][16] app comes with a lot of popular strength programs preloaded; [the one by Greg Nuckols][17] looks especially promising.
 
+
 ## Equipment
 
 Effective strength training requires enough resistance for progressive overload.
