@@ -28,13 +28,14 @@ If you care about _why_ and _how_ strength training works you'll need to do some
 Start with [The Complete Strength Training Guide][1] by [Greg Nuckols][2].
 It weighs in at 54 pages and is a better, more concise resource than most books on the subject.
 Another commonly recommended introductory text is [Starting Strength][3] by [Mark Rippetoe][4].
-Social media content, even by “evidence-based” creators, varies widely in quality and efficacy but [Jeff Nippard][5] is a reliable source of good information.
+Social media content, even by “evidence-based” creators, varies widely in quality and efficacy but [Jeff Nippard][5]'s technique and training videos are a reliable source of good information.
+The [Stronger by Science podcast][6] is a fantastic resource but the episodes can be pretty long (brevity is not a core part of the Stronger by Science brand).
 
 If you don’t want to start by reading a book, the [fundamental concepts of training][6] strength are:
 
-- _Consistency_ [Goals are achieved][7] in days and years. Do what you need to do _every day_—even if it's resting—and the results will build up over time.
-- _Progressive overload_ You must increase the amount of _work_[^3] you perform in your training to get better over time. Increase work by increasing weight, repetitions, speed, or a combination of thereof.
-- _Adapt to your needs_ YOU are responsible for avoiding injury and continue improving by finding [the right balance of training stimulus and recovery that works for YOU][8].
+- _Consistency:_ [Goals are achieved][7] in days and years. Do what you need to do _every day_—even if it's resting—and the results will build up over time.
+- _Progressive overload:_ You must increase the amount of _work_[^3] you perform in your training to get better over time. Increase work by increasing weight, repetitions, speed, or a combination of thereof.
+- _Adapt to your needs:_ YOU are responsible for avoiding injury and continue improving by finding [the right balance of training stimulus and recovery that works for YOU][8].
 
 There is no such thing as "accidental" muscle.
 You must work hard, and keep at it, to get stronger.
@@ -45,10 +46,10 @@ If you stop, you will waste away.
 It doesn't make sense to invest enough time to gain the expertise required to develop your own training plans _before_ you get started.
 Use a beginner-friendly training plan and learn what works for you as you progress.
 
-- I started with [Stronglifts 5×5][9] and added accessory work[^4] as needed.
-- I have purchased several programs from [Meghan Callaway Fitness][10] for both specific results and general fitness; they are very good (don't ask me about my adherence).[^5]
-- I have heard good things about [Couch to Barbell][11] by [Casey Johnston][12] of [Ask a Sowle Woman][13] & [She's a Beast][14] fame.
-- The [Boostcamp][15] app comes with a lot of popular strength programs preloaded; [the one by Greg Nuckols][16] looks especially promising.
+- I started with [Stronglifts 5×5][10] and added accessory work[^4] as needed.
+- If moving a standard Olympic barbell (20kg/~45lb) is challenging for you, start with [Couch to Barbell][11] by [Casey Johnston][12] of [Ask a Sowle Woman][13] & [She's a Beast][14] fame.
+- I have purchased several programs from [Meghan Callaway Fitness][15] for both specific results and general fitness; they are very good (don't ask me about my adherence).[^5]
+- The [Boostcamp][16] app comes with a lot of popular strength programs preloaded; [the one by Greg Nuckols][17] looks especially promising.
 
 ## Equipment
 
@@ -71,18 +72,18 @@ Buying fitness equipment is a slippery slope.
 Just because you have something in your home doesn't mean you will _use_ it.[^6]
 You can get a lot of mileage out of:
 
-- _A kettlebell or two_ I get a _lot_ of use out of a good, 1 pood[^7] [(35lb) kettlebell][17] for "exercise snacks" during the workday.
-- _A pair of adjustable dumbbells_ I bought a set of [Ironmaster adjustable dumbbells][18] ahead of the COVID-19 pandemic to be the foundation of a home gym. They are great quality and spectacularly solid. There are other dumbbells on the market that adjust _faster_ but I haven't found any I can recommend without reservations.
-- _A pull-up bar_ [the kind that fits in a door frame is fine][19].
-- _A set of exercise bands_ [elitefts makes some nice ones][20], [as does Rogue][21].
+- _A kettlebell or two._ I get a _lot_ of use out of a good, 1 pood[^7] [(35lb) kettlebell][18] for "exercise snacks" during the workday.
+- _A pair of adjustable dumbbells._ I bought a set of [Ironmaster adjustable dumbbells][19] ahead of the COVID-19 pandemic to be the foundation of a home gym. They are great quality and spectacularly solid. There are other dumbbells on the market that adjust _faster_ but I haven't found any I can recommend without reservations.
+- _A pull-up bar._ [The kind that fits in a door frame is fine][20].
+- _A set of exercise bands._ [elitefts makes some nice ones][21], [as does Rogue][22].
 
 Everything else is a bonus.
 
-[^1]: [Dr. Peter Attia][22] has written many articles and [recorded many podcasts][23] about this. His book [_Outlive_][24] is an excellent high-level overview of how to stay healthy throughout your life.
-[^2]: This is a commonly held belief but we my be wrong about _why_ we lose muscle as we age. [Luc van Loon's research][25] has shown that muscle tissue responds to exercise stimulus _irrepective_ of age. So the effects of sarcopenia are better explained by _lack of exercise stimulus_ and _periods of enforced inactivity, even breif ones_ built up over many years.
+[^1]: [Dr. Peter Attia][23] has written many articles and [recorded many podcasts][24] about this. His book [_Outlive_][25] is an excellent high-level overview of how to stay healthy throughout your life.
+[^2]: This is a commonly held belief but we my be wrong about _why_ we lose muscle as we age. [Luc van Loon's research][26] has shown that muscle tissue responds to exercise stimulus _irrespective_ of age. So the effects of sarcopenia are better explained by _lack of exercise stimulus_ and _periods of enforced inactivity, even brief ones_ built up over many years.
 [^3]: In physics, work is product of _force_ and _displacement_ i.e. work is how far you moved something while applying a constant force. Force, in turn, is the product of _mass_ and _acceleration_ (acceleration being the integral of velocity—the _rate_ of change in speed). So, we can manipulate our training output by adjusting the amount of weight we move (mass), how quickly or slowly we move it (acceleration), and how far we move it (displacement).
-[^4]: Years ago, I recall a comment by Arnold Schwarzenegger on Reddit ([u/GovSchwarzenegger][26]) where he suggested adding pull-ups. I can't find the link now.
-[^5]: The biggest struggle I have with adhering her programming is a little embarrassing. I use the [Strong app][27] to record my workouts and, because she favors specialized exercies, it's a pain to add a bunch of custom exercises and build supersets for the app. I could use paper or a spreadsheet or something that would be less friction but, instead, my particular combination of stubbornness and laziness means that inaction wins out over time.
+[^4]: Years ago, I recall a comment by Arnold Schwarzenegger on Reddit ([u/GovSchwarzenegger][27]) where he suggested adding pull-ups. I can't find the link now.
+[^5]: The biggest struggle I have with adhering her programming is a little embarrassing. I use the [Strong app][28] to record my workouts and, because she favors specialized exercises, it's a pain to add a bunch of custom exercises and build supersets for the app. I could use paper or a spreadsheet or something that would be less friction but, instead, my particular combination of stubbornness and laziness means that inaction wins out over time.
 [^6]: I have fallen for this trap an untold number of times. It's not just me; I have seen a spectacular quantity of aspirational fitness equipment in the background of Zoom calls with co-workers.
 [^7]: Kettlebells were traditionally measured in increments of 40 Russian pounds called a pood. One pood is equivalent to 16 kilograms—about 35 pounds.
 
@@ -91,25 +92,26 @@ Everything else is a bonus.
 [3]:  https://aasgaardco.com/store/books-posters-dvd/books/starting-strength-basic-barbell-training/
 [4]:  https://startingstrength.com/author/mark-rippetoe
 [5]:  https://youtube.com/@JeffNippard
-[6]:  /codex/training/#fundamentals
-[7]:  /codex/training/#set-achievable-goals
-[8]:  /codex/training/#personalize-your-training
-[9]:  https://stronglifts.com/5x5/
-[10]: https://meghancallawayfitness.com/
+[6]:  https://www.strongerbyscience.com/podcast/
+[7]:  /codex/training/#fundamentals
+[8]:  /codex/training/#set-achievable-goals
+[9]:  /codex/training/#personalize-your-training
+[10]: https://stronglifts.com/5x5/
 [11]: https://www.couchtobarbell.com/
 [12]: https://www.caseyjohnston.website
 [13]: https://askaswolewoman.com
 [14]: https://www.shesabeast.co
-[15]: https://www.boostcamp.app
-[16]: https://www.boostcamp.app/greg-nuckols/greg-nuckols-beginner-program
-[17]: https://www.roguefitness.com/rogue-kettlebells
-[18]: https://www.ironmaster.com/products/quick-lock-adjustable-dumbbells-75-original/
-[19]: https://www.nytimes.com/wirecutter/reviews/best-pull-up-bars/
-[20]: https://www.elitefts.com/shop/bands.html
-[21]: https://www.roguefitness.com/rogue-monster-bands
-[22]: https://peterattiamd.com/
-[23]: https://peterattiamd.com/podcast/
-[24]: https://peterattiamd.com/outlive/
-[25]: https://peterattiamd.com/lucvanloon/
-[26]: https://www.reddit.com/user/GovSchwarzenegger
-[27]: https://www.strong.app/
+[15]: https://meghancallawayfitness.com/
+[16]: https://www.boostcamp.app
+[17]: https://www.boostcamp.app/greg-nuckols/greg-nuckols-beginner-program
+[18]: https://www.roguefitness.com/rogue-kettlebells
+[19]: https://www.ironmaster.com/products/quick-lock-adjustable-dumbbells-75-original/
+[20]: https://www.nytimes.com/wirecutter/reviews/best-pull-up-bars/
+[21]: https://www.elitefts.com/shop/bands.html
+[22]: https://www.roguefitness.com/rogue-monster-bands
+[23]: https://peterattiamd.com/
+[24]: https://peterattiamd.com/podcast/
+[25]: https://peterattiamd.com/outlive/
+[26]: https://peterattiamd.com/lucvanloon/
+[27]: https://www.reddit.com/user/GovSchwarzenegger
+[28]: https://www.strong.app/
