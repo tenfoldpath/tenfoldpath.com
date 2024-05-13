@@ -31,11 +31,11 @@ Another commonly recommended introductory text is [Starting Strength][3] by [Mar
 Social media content, even by “evidence-based” creators, varies widely in quality and efficacy but [Jeff Nippard][5]'s technique and training videos are a reliable source of good information.
 The [Stronger by Science podcast][6] is a fantastic resource but the episodes can be pretty long (brevity is not a core part of the Stronger by Science brand).
 
-If you don’t want to start by reading a book, the [fundamental concepts of training][6] strength are:
+If you don’t want to start by reading a book, the [fundamental concepts of training][7] strength are:
 
-- _Consistency:_ [Goals are achieved][7] in days and years. Do what you need to do _every day_—even if it's resting—and the results will build up over time.
+- _Consistency:_ [Goals are achieved][8] in days and years. Do what you need to do _every day_—even if it's resting—and the results will build up over time.
 - _Progressive overload:_ You must increase the amount of _work_[^3] you perform in your training to get better over time. Increase work by increasing weight, repetitions, speed, or a combination of thereof.
-- _Adapt to your needs:_ YOU are responsible for avoiding injury and continue improving by finding [the right balance of training stimulus and recovery that works for YOU][8].
+- _Adapt to your needs:_ YOU are responsible for avoiding injury and continue improving by finding [the right balance of training stimulus and recovery that works for YOU][9].
 
 There is no such thing as "accidental" muscle.
 You must work hard, and keep at it, to get stronger.
