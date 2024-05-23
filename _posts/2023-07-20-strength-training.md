@@ -1,7 +1,7 @@
-—
+---
 category: health
 title: Strength Training
-—
+---
 
 Strength is the foundation of a long, healthy life.[^1]
 
