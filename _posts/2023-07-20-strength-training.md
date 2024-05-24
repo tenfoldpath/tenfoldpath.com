@@ -82,13 +82,13 @@ The [MASS Research Review][21] makes exercise science findings more accessible t
 Using social media for fitness advice is unwise.
 It’s too easy to lose focus on building a foundation of excellence by getting the basics right (which really aren’t _that_ complicated) when there’s so much _noise_ about little things that don’t matter much. 
 
-There’s an over abundance abundance of information available strewn across the Internet and (sometimes) GenAI can help you sort it out.
+There’s an over abundance of information available strewn across the Internet and (sometimes) GenAI can help you sort it out.
 For example, I got what _seemed_ like a perfectly good response from ChatGPT with this prompt:
 
 > What would a bench press workout look like using reverse pyramid sets for a 1RM of 185 and a three rep target for the first working set?
 
 It calculated the set weights correctly and suggested a sensible progression but recommended a total volume that was too high.
-The term “junk volume” refers to the point where additional sets and reps offer diminishing returns for strength gains.
+“Junk volume” is when additional sets and reps offer diminishing returns for strength gains.
 Avoid junk volume because it will impact your ability to recover and increase risk of injury without a clear training benefit.
 
 ### Stay on the Path
