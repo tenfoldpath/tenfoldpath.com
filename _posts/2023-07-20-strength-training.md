@@ -153,7 +153,7 @@ Everything else is a bonus.
 [18]: https://peterattiamd.com/how-to-train-for-the-centenarian-decathlon/
 [19]: https://aasgaardco.com/store/books-posters-dvd/books/practical-programming-for-strength-training/
 [20]: https://exrx.net/
-[21]: https://forums.t-nation.com/t/fuckarounditis/170252
+[21]: https://leangains.com/fuckarounditis/
 [22]: https://www.roguefitness.com/rogue-kettlebells
 [23]: https://www.ironmaster.com/products/quick-lock-adjustable-dumbbells-75-original/
 [24]: https://www.nytimes.com/wirecutter/reviews/best-pull-up-bars/
