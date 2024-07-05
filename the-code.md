@@ -29,6 +29,8 @@ The best we can do is humble ourselves, work hard, and never give up.
 
 Stay on the path.
 
+The path is long. Pace yourself.
+
 [1]: /codex/training/
 [2]: /codex/nutrition/
 [3]: /codex/sleep/
