@@ -123,6 +123,17 @@ You can get a lot of mileage out of:
 
 Everything else is a bonus.
 
+### Safety
+
+Lifting and moving heavy things is perfectly safe _if and only if_ you:
+
+- Have the mobility, stability, and the knowledge to move with good technique.
+	- Understand how and when to brace yourself for movement patterns that require it.
+- Use loads that you can successfully complete with proper form.
+- Always use safety equipment—barbell clips, spotter arms, etc.
+	- Know how to safely bail lifts if you get stuck (for exercises where this is possible).
+- Don’t lift alone; accidents can happen and you may need assistance from someone else.
+
 [^1]: [Dr. Peter Attia][27] has written many articles and [recorded many podcasts][28] about this. His book [_Outlive_][29] is an excellent high-level overview of how to stay healthy throughout your life.
 [^2]: This is a commonly held belief but we my be wrong about _why_ we lose muscle as we age. [Luc van Loon’s research][30] has shown that muscle tissue responds to exercise stimulus _irrespective_ of age. So the effects of sarcopenia are better explained by _lack of exercise stimulus_ and _periods of enforced inactivity, even brief ones,_ built up over many years.
 [^3]: In physics, work is product of _force_ and _displacement_ i.e. work is how far you moved something while applying a constant force. Force, in turn, is the product of _mass_ and _acceleration_ (acceleration being the integral of velocity—the _rate_ of change in speed). So, we can manipulate our training output by adjusting the amount of weight we move (mass), how quickly or slowly we move it (acceleration), and how far we move it (displacement).
