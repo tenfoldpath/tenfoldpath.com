@@ -9,9 +9,9 @@ The Tenfold Path is a website by [Dan Brubaker Horst][1] (DBH).
 It is a resource for becoming a better human being.
 I hope it is of some use to you.
 
-I am not a doctor or a registered dietitian.
-I do not hold any credentials where taking my advice at face value regarding your health and well-being would be a good idea.
-_Please consult a professional before you change your diet or exercise routine._
+I am not a doctor or a registered dietitian nor do I hold any license or credential to offer medical advice or provide medical care.
+The information on this website is for informational purposes _only_.
+_Please consult a professional before changing your diet or exercise routine._
 
 I have done my best to compile information that is vetted and valid[^1].
 However, as with all everything derived from the scientific process, new research and analysis is continually refining, and sometimes challenging, previously held assumptions and beliefs.
