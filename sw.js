@@ -6,7 +6,7 @@ layout: null
   'use strict';
 
   var version = 'CacheId-{% css_version %}::NetworkFirst';
-  var offlineUrl = '/offline';
+  var offlineUrl = '/offline/';
 
   // Store core files in a cache (including a page to display when offline)
   function updateStaticCache() {
