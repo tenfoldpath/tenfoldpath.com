@@ -27,9 +27,9 @@ The driving force behind a personal code, and the continuous evaluation of ourse
 No mortal can achieve the pinnacle of human performance across all aspects of life.
 The best we can do is humble ourselves, work hard, and never give up.
 
-Stay on the path.
-
 The path is long. Pace yourself.
+
+Stay on the path.
 
 [1]: /codex/training/
 [2]: /codex/nutrition/
