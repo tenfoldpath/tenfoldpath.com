@@ -251,13 +251,14 @@ a {
   outline: .1rem solid transparent;
 }
 
-a:focus {
-  outline: .1rem dotted #F00;
-}
-
 a:hover {
   text-decoration: underline;
   text-decoration-thickness: 0.05em;
+}
+
+a:focus {
+  outline: .1rem solid #F00;
+  text-decoration: none;
 }
 
 a:visited {
